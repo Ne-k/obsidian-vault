@@ -93,17 +93,80 @@ type: note
 	- And their resistance against the communist Lao government after the war 
 
 ## Hmong | History, Culture, and Language
-- Since the late 18th century, Hmong have migrated out of southern China
-- **Current Population**:
-    - China: ~2.7 million
-    - Northern Vietnam, Laos, Thailand, Myanmar: ~1.2 million
-    - United States: ~170,000
-    - France: ~15,000
-    - Australia: ~2,000
-    - French Guiana: ~1,500
-    - Canada: ~600
-    - Argentina: ~600
-- 
+
+- **Migration**:
+    - Since the late 18th century, Hmong have migrated out of southern China
+    - **Current Population**:
+        - China: ~2.7 million
+        - Northern Vietnam, Laos, Thailand, Myanmar: ~1.2 million
+        - United States: ~170,000
+        - France: ~15,000
+        - Australia: ~2,000
+        - French Guiana: ~1,500
+        - Canada: ~600
+        - Argentina: ~600
+- **Original Home**: Huang He (Yellow River) basin, central China
+    - Driven southward by Han Chinese population expansion
+- **Traditional Agriculture**:
+    - Shifting cultivation of unirrigated upland crops (buckwheat, barley, millet, rice, corn)
+    - Opium poppy introduced in the late 19th century, integrated with corn and dry rice cultivation
+- **Modern Agriculture**:
+    - Abandoned shifting cultivation and opium production
+    - Permanent-field cultivation of crops (corn, flowers, fruits, vegetables)
+- **Society**:
+    - Organized through patrilineal clans with Chinese surnames (Li, Wang, Yang)
+    - Surname exogamy (outmarriage) strictly observed
+    - Brotherhood ideology within clans
+- **Cultural Divisions**:
+    - White Hmong and Green Hmong (based on women’s clothing color)
+    - Traditionally lived in separate villages, spoke different dialects, had different forms of dress and house architecture
+    - Greater proximity and intermarriage by the late 20th century
+- **Cultural Life and Beliefs**:
+    - Rich cultural life with embroidery and love songs
+    - Marriage customs involve bride joining husband’s household, bridewealth payments in silver
+    - Female suicides were common, often by swallowing opium
+    - Polygamy practiced, co-wives live together and treat children equally
+
+- **New Year Celebrations**:
+    - Starts on the 30th day of the 12th lunar month
+    - Honoring family’s ancestral and household spirits
+    - Family remains together, visits other villages, and plays communal games
+    - **Games**:
+        - Southeast Asia: Unmarried boys and girls play catch with a cloth ball
+        - China: Beating back and forth of a feather shuttlecock
+        - Games may lead to meetings and eventually marriage
+- **Shamanism**:
+    - Invited in cases of serious sickness or misfortune
+    - Enters a possessive trance to visit the otherworld and locate the missing soul of the patient
+    - Every person has multiple souls that may wander away or be trapped by evil spirits
+- **Funeral Rites**:
+    - May last several days
+    - Series of mortuary rituals some years after death
+    - Drum beating, reed pipes playing, and special ritual expert singing “Opening the Way”
+    - Guides the reincarnating soul back to the original village of ancestors
+    - Corpse buried according to Chinese geomancy (feng shui)
+- **Political Leadership**:
+    - Sometimes a shaman acts as a political leader
+    - No specific Hmong political institution above the village or local descent group
+    - Periodic armed revolts against colonial and postcolonial authorities
+    - Belief in a messianic leader announced by a prophet discovering a form of writing for Hmong language
+    - Legends explain the loss of writing and its eventual restoration
+    - Various scripts now in use, but messianic movements persist
+- **20th Century Conflicts**:
+    - Divided by conflicts between communist parties and states
+    - **Thailand**:
+        - Many Hmong joined the Communist Party in the 1960s
+        - Reputation as enemies of the state
+        - Lack citizenship rights or proper land titles
+    - **Laos**:
+        - Many Hmong opposed communists
+        - After 1975 Revolution, over 100,000 fled to refugee camps in Thailand
+        - Resettled in countries like the United States, Canada, France, French Guiana, Australia, and New Zealand
+        - Families split apart during resettlements
+- **Diaspora and Community**:
+    - Diasporic Hmong tracing family roots and revisiting homelands
+    - New contacts formed across the Hmong global community through audio- and videocassettes and the Internet
+    - Technological advances crucial in forming a transnational community
 
 # 🧠 Questions
 

@@ -1,0 +1,16 @@
+.wrapper {
+    display: flex;
+    flex-direction: row;
+    gap: 0.3em;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+.hidden {
+    display: none;
+}
+
+.iconSpan {
+    height: 16px;
+}

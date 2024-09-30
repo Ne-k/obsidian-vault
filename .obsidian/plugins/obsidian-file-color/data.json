@@ -1,0 +1,97 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "elaPNSPyRsm6iAMCtkgdv",
+      "name": "Home",
+      "value": "#8ee5fb"
+    },
+    {
+      "id": "6eSTGFPF3RugFNJ6ziMex",
+      "name": "Economics",
+      "value": "#52ffa5"
+    },
+    {
+      "id": "agJQI01u5Y2Ze6bD9dXu4",
+      "name": "English 12",
+      "value": "#e381fe"
+    },
+    {
+      "id": "JTpwUEgRccxa9H8j7Y9pP",
+      "name": "Ethnic Studies",
+      "value": "#fff480"
+    },
+    {
+      "id": "DgmZ9WV2OtDy6E8UJErAY",
+      "name": "Computer Programming 1",
+      "value": "#ff9f75"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Home.md",
+      "color": "elaPNSPyRsm6iAMCtkgdv"
+    },
+    {
+      "path": "English 12",
+      "color": "agJQI01u5Y2Ze6bD9dXu4"
+    },
+    {
+      "path": "Economics",
+      "color": "6eSTGFPF3RugFNJ6ziMex"
+    },
+    {
+      "path": "Computer Programming 1",
+      "color": "DgmZ9WV2OtDy6E8UJErAY"
+    },
+    {
+      "path": "Ethnic Studies",
+      "color": "JTpwUEgRccxa9H8j7Y9pP"
+    },
+    {
+      "path": "Economics/Economics 101.md",
+      "color": "6eSTGFPF3RugFNJ6ziMex"
+    },
+    {
+      "path": "English 12/Warm Ups.md",
+      "color": "agJQI01u5Y2Ze6bD9dXu4"
+    },
+    {
+      "path": "English 12/Personal Narrative Essay Jigsaw; T.S.A. and Cinnamon Buns.md",
+      "color": "agJQI01u5Y2Ze6bD9dXu4"
+    },
+    {
+      "path": "Economics/Broad Social Goals of an Economic System.md",
+      "color": "6eSTGFPF3RugFNJ6ziMex"
+    },
+    {
+      "path": "Economics/No. 1 Economics Model; Circular Flow of Economy.md",
+      "color": "6eSTGFPF3RugFNJ6ziMex"
+    },
+    {
+      "path": "Economics/No. 2 Economics Model; Production Possibilities Frontier.md",
+      "color": "6eSTGFPF3RugFNJ6ziMex"
+    },
+    {
+      "path": "Ethnic Studies/Roma Notes.md",
+      "color": "JTpwUEgRccxa9H8j7Y9pP"
+    },
+    {
+      "path": "English 12/Parenting Styles.md",
+      "color": "agJQI01u5Y2Ze6bD9dXu4"
+    },
+    {
+      "path": "English 12/The Glass Castle; Welch.md",
+      "color": "agJQI01u5Y2Ze6bD9dXu4"
+    },
+    {
+      "path": "Economics/Comparative advantage and Trade.md",
+      "color": "6eSTGFPF3RugFNJ6ziMex"
+    },
+    {
+      "path": "Ethnic Studies/Hmong People Statelessness.md",
+      "color": "JTpwUEgRccxa9H8j7Y9pP"
+    }
+  ]
+}

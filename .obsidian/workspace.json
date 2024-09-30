@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "page",
+                "query": "tag:#Notes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5
+    "width": 200
   },
   "right": {
     "id": "001665bf35b7b593",
@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -169,15 +169,17 @@
   },
   "active": "26460e44af40016d",
   "lastOpenFiles": [
-    "links.md",
+    "Pasted image 20240930144404.png",
+    "Pasted image 20240930144332.png",
     "Ethnic Studies/Hmong People Statelessness.md",
+    "Ethnic Studies/Roma Notes.md",
+    "Home.md",
+    "links.md",
     "Economics/Broad Social Goals of an Economic System.md",
     "().md",
-    "Ethnic Studies/Roma Notes.md",
     "English 12/Personal Narrative Essay Jigsaw; T.S.A. and Cinnamon Buns.md",
     "English 12/Parenting Styles.md",
     "Templates/NoteTemplate.md",
-    "Home.md",
     "Economics/Economics 101.md",
     "Economics/Comparative advantage and Trade.md",
     "English 12/The Glass Castle; Welch.md",
@@ -196,7 +198,6 @@
     "Templates/0A_11_Application/0A_11_Application.md",
     "Templates/0A_99_Index",
     "Templates/0A_17_WordDictionary",
-    "Templates/0A_16_Investment/0A_16_1_Stocks.md",
     "Templates/0A_16_Investment",
     "Templates/0A_15_Company",
     "Templates/0A_14_Trackers",

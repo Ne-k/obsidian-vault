@@ -12,8 +12,11 @@ type: note
 - [ ]  [Finish Assignment ](https://classroom.google.com/u/2/c/NjkyMDIwOTk1NTMx/m/NzE5NzAyNTEzMTMw/details)
 
 # 🔗 Links
--  [Hmong American Center](https://www.hmongamericancenter.org/hmong-history/)
+- [Hmong American Center](https://www.hmongamericancenter.org/hmong-history/)
 - [Hmong | History, Culture, and Language - Britannica](https://www.britannica.com/topic/Hmong)
+- [Wikipedia](https://en.wikipedia.org/wiki/Hmong_people) Hand
+- [Stateless People: The Hmong of Laos](https://standnow.org/2012/12/20/stateless-people-the-hmong-of-laos/)
+- [Consequences of Statelessness on Hmong Christians: The children of Subdivision 181 in Vietnam](https://www.ohchr.org/sites/default/files/2022-01/Boat-People-SOS.pdf)
 # 💡Summery
 
 
@@ -94,7 +97,7 @@ type: note
 
 ## Hmong | History, Culture, and Language
 
-- **Migration**:
+- ### **Migration**:
     - Since the late 18th century, Hmong have migrated out of southern China
     - **Current Population**:
         - China: ~2.7 million
@@ -107,7 +110,7 @@ type: note
         - Argentina: ~600
 - **Original Home**: Huang He (Yellow River) basin, central China
     - Driven southward by Han Chinese population expansion
-- **Traditional Agriculture**:
+- ### **Traditional Agriculture**:
     - Shifting cultivation of unirrigated upland crops (buckwheat, barley, millet, rice, corn)
     - Opium poppy introduced in the late 19th century, integrated with corn and dry rice cultivation
 - **Modern Agriculture**:
@@ -127,7 +130,7 @@ type: note
     - Female suicides were common, often by swallowing opium
     - Polygamy practiced, co-wives live together and treat children equally
 
-- **New Year Celebrations**:
+- ### **New Year Celebrations**:
     - Starts on the 30th day of the 12th lunar month
     - Honoring family’s ancestral and household spirits
     - Family remains together, visits other villages, and plays communal games
@@ -135,24 +138,24 @@ type: note
         - Southeast Asia: Unmarried boys and girls play catch with a cloth ball
         - China: Beating back and forth of a feather shuttlecock
         - Games may lead to meetings and eventually marriage
-- **Shamanism**:
+- ### **Shamanism**:
     - Invited in cases of serious sickness or misfortune
     - Enters a possessive trance to visit the otherworld and locate the missing soul of the patient
     - Every person has multiple souls that may wander away or be trapped by evil spirits
-- **Funeral Rites**:
+- ### **Funeral Rites**:
     - May last several days
     - Series of mortuary rituals some years after death
     - Drum beating, reed pipes playing, and special ritual expert singing “Opening the Way”
     - Guides the reincarnating soul back to the original village of ancestors
     - Corpse buried according to Chinese geomancy (feng shui)
-- **Political Leadership**:
+- ### **Political Leadership**:
     - Sometimes a shaman acts as a political leader
     - No specific Hmong political institution above the village or local descent group
     - Periodic armed revolts against colonial and postcolonial authorities
     - Belief in a messianic leader announced by a prophet discovering a form of writing for Hmong language
     - Legends explain the loss of writing and its eventual restoration
     - Various scripts now in use, but messianic movements persist
-- **20th Century Conflicts**:
+- ### **20th Century Conflicts**:
     - Divided by conflicts between communist parties and states
     - **Thailand**:
         - Many Hmong joined the Communist Party in the 1960s
@@ -163,11 +166,143 @@ type: note
         - After 1975 Revolution, over 100,000 fled to refugee camps in Thailand
         - Resettled in countries like the United States, Canada, France, French Guiana, Australia, and New Zealand
         - Families split apart during resettlements
-- **Diaspora and Community**:
+- ### **Diaspora and Community**:
     - Diasporic Hmong tracing family roots and revisiting homelands
     - New contacts formed across the Hmong global community through audio- and videocassettes and the Internet
     - Technological advances crucial in forming a transnational community
 
+## Wikipedia
+### Main Info
+- Total estimated to be 4-5 million
+- Indigenous group from East and Southeast Asia
+- Sub-group of Miao people
+- Mostly reside in Southwest China, Vietnam, Laos, Thailand, Myanmar
+- Diasporic community in US
+- Smaller diasporic communities in Australia, Argentina, French Guiana, France, Canada
+- Originally called Miao (very derogatory term at first, eventually lost negative meaning)
+- Now mostly called Hmong besides in China
+### History
+- Hmong might have occupied southern China for over 8,000 years
+- Likely originated between Yangtze and Mekong rivers
+- Armed conflicts between Hmong and Han settlers in 18th-19th century, caused many to emigrate to Southeast Asia
+- Hmong in Vietnam were ignored by rebellions and conflicts, thrived and harmonized with other ethnic groups
+- Hmong in Thailand attempted to remain neutral in conflicts but were caught up in events
+#### Laos
+- Hmong in Laos caught in Communist conflicts, went to both sides
+- CIA recruited as many as 60% of Hmong in Laos to fight against the North Vietnamese Army in Laos during the Vietnam War
+- Groups of Hmong remain displaced in remote parts of Laos, harassed by military operations, some returned to main Laos, others sought asylum in Thailand and other countries
+- Laos agreed to repatriate tens of thousands of Hmong in Thailand, however many resisted, and some of those who returned were discriminated and escaped back to Thailand
+#### US
+- First wave of Hmong refugees, around 30,000, came to US and other Western countries in 1970s, after North Vietnamese takeovers
+- Second wave of Hmong refugees came after the passage of the Refugee Act of 1980
+
+## Stateless People: The Hmong of Laos
+
+- ### **Series Context**:
+    - Fourth post in a series highlighting cases of statelessness
+- ### **Hmong Displacement**:
+    - Originally from southern China
+    - Drifted through Southeast Asian countries for two centuries
+    - Faced hostility in China, Thailand, Vietnam, and most problems in Laos
+- ### **Vietnam War Involvement**:
+    - Hmong in Laos recruited by the C.I.A. to disrupt the Ho Chi Minh Trail
+    - Approximately 100,000 Hmong men died
+    - U.S. involvement in Laos kept secret
+- ### **Post-Vietnam War**:
+    - 1975: Laos fell to a communist regime
+    - New government retaliated against Hmong for their involvement in the war
+    - Many fled to Thailand, overwhelming UN refugee camps
+    - Remaining Hmong faced death in reeducation camps or harassment in mountain villages
+- ### **2011 Village Visit**:
+    - Villages rely on tourists as the sole source of income
+    - Villages resemble a zoo-like setting for tourists
+- ### **Current Situation**:
+    - Laos government stopped persecuting Hmong after Vang Pao’s death in 2011
+    - Hmong still face discrimination and impoverished conditions
+    - Many sought refuge in the United States
+    - Little hope for Hmong to be a unified people or have a state
+
+## Consequences of Statelessness on Hmong Christians
+
+- ### **Denial of Documents**:
+    - Provincial governments in Vietnam deny household registration and national ID documents to members of unrecognized religions or banned churches
+    - Results in statelessness and denial of basic rights
+    - Restricted movement and access to public benefits (education, healthcare)
+    - Inability to own property, open bank accounts, get official employment, or apply for business licenses
+    - Undocumented marriages and children without birth certificates
+    - Stateless individuals cannot file lawsuits
+- ### **Stateless Hmong and Montagnard Christians**:
+    - Over 2,000 households (~10,000 individuals) rendered stateless due to religious faith
+    - Unsafe and unsanitary living conditions in Subdivision 181, Lam Dong Province, Vietnam
+    - Similar situations in the Central Highlands of Vietnam
+- ### **Report Context**:
+    - Response to the Special Rapporteur on human rights to safe drinking water and sanitation
+    - Follow-up to submissions to the UN Committee on the Rights of the Child
+- ### **Subdivision 181**:
+    - Home to over 700 Protestant Christian H’mong people
+    - Founded by people fleeing or evicted from Northwestern Highlands due to Christian faith
+    - Denied household registration and state identification cards for two decades
+    - Denial of documents as a punitive measure against minority groups and unrecognized religions
+- ### **Recent Changes**:
+    - 2021: Successful advocacy led to household registrations for H’mong in Subdivision 179
+    - Local government allocated funds for infrastructure development
+    - Registration campaign in Subdivision 181, but many still struggle to access education and social services
+- ### **Consequences for Children’s Education**:
+    - Children without household registrations struggle to attend formal schooling
+    - Lack of birth certificates prevents school registration
+    - Local authorities can deny educational diplomas and social security
+    - Families forced to send children to live with other families for schooling
+    - Children travel long distances to reach schools or drop out to work
+    - Makeshift classrooms built but abandoned due to lack of teachers and local authority restrictions
+- ### **Letter to Local Authority**:
+    - 4 May 2021: Subdivision 181 residents sent a letter about children’s education
+    - Response: No plans to build schools or send teachers due to illegal land encroachment
+    - Children assigned to study at schools in Lieng S’ronh Commune
+- ### **Dangerous Conditions for School Attendance**:
+    - Children travel long distances to attend school
+    - Temporary homes in hazardous sheds near schools
+    - Sheds constructed from wood, corrugated iron sheets, and canvas
+    - Up to 10 children in cramped conditions
+    - Some parents rent abandoned shanties for children
+- ### **Children’s Daily Struggles**:
+    - Elementary-aged children cook and do housework
+    - Lack of adult supervision leads to dangerous circumstances
+- ### **Comparison with Subdivision 179**:
+    - Subdivision 179 received teachers to live and teach within the village
+    - Mitigated dangers faced by school-aged children
+    - Subdivision 181 requested similar opportunities
+- ### **Response from Education Department**:
+    - 3 November 2021: Meeting with community leaders
+    - Letter considered an “overreaction” and representatives threatened with fines
+    - Representatives forced to sign an “Explanation Letter” negating original complaints
+    - Vague promise of a boarding school in 2-3 years
+- ### **Children’s Access to Safe Drinking Water and Sanitation**:
+    - Use of well and rainwater for daily needs
+    - Questionable water quality and hazardous access to well
+    - Rainwater collected in jars, but irregular and not always boiled
+- ### **Incident with Local Authorities**:
+    - 9 & 10 November 2021: Two Hmong Christians detained and forced to terminate contacts with foreign entities
+    - Incident reported to the Special Rapporteur on Freedom of Religion or Belief
+    - Communication with BPSOS ceased
+- ### **Recommendations to the U.N. Committee on the Rights of the Child**:
+    1. Commend Dam Rong District government for promoting the right to education in Subdivision 179 and encourage applying the same model to Subdivision 181.
+    2. Encourage Dam Rong District Government to comply with the Law on Education and the Law on Children to ensure equal education for all children and create a roadmap for organizing education for the H’mong in Dam Rong district.
+    3. Encourage Dam Rong District Government to organize pedagogical training for local H’mong people to teach children in their community.
+    4. Closely monitor Subdivision 181 to ensure cessation of harassment, intimidation, or manipulation of residents requesting educational betterment for their children.
+- ### **Legal Framework**:
+    - **Convention on the Rights of the Child (CRC)**:
+        - **Article 28**: Right to education, compulsory primary education, accessible secondary and higher education, vocational training, and measures to encourage school attendance.
+        - **Article 29**: Education directed to the development of the child’s personality, respect for human rights, cultural identity, and preparation for responsible life in a free society.
+        - **Article 30**: Rights of children belonging to ethnic, religious, or linguistic minorities to enjoy their culture, religion, and language.
+- ### **Compliance by Vietnam to the CRC**:
+    - **Non-discrimination (Article 2)**:
+        - Vietnam’s State Report claims priority access to social services for ethnic minority children, but children in Subdivision 181 face barriers to education and social services.
+    - **Parents’ Responsibilities and Childcare Services (Article 18)**:
+        - Vietnam’s State Report claims the right of children to be protected, cared for, and educated, but parents in Subdivision 181 are denied the right to efficiently care for their children due to lack of support from local authorities.
+    - **Right to Education (Article 28)**:
+        - Government policies for ethnic groups include boarding schools and support for pupils and teachers, but children in Subdivision 181 face disparities in access to education.
+    - **Children in Ethnic Minority Groups (Article 30)**:
+        - Scheme for social support activities includes ethnic minority children, but children in Subdivision 181 face challenges in accessing education and social services.
 # 🧠 Questions
 
  

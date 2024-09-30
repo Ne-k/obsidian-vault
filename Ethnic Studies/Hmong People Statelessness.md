@@ -94,7 +94,25 @@ type: note
 
 ## Hmong | History, Culture, and Language
 
-- 
+- Hmong are an ethnic group living in China and Southeast Asia
+- Primarily speaking Hmong, one of the Hmong-Mien languages (aka Miao-Yao languages)
+- Hmong, among the [Miao](https://www.britannica.com/topic/Miao) groups have slowly migrated out of southern provinces of China
+	- Where about 2.7 million still remain.
+- Some of the 1.2 million have moved into Vietnam, Laos, Thailand, and eastern parts of Myanmar (Burma). 
+- More than 170,000 live in the US
+	- Plus 20,000 more in:
+		- France (15.000)
+		- Australia (2,000)
+		- French Guiana (1,500)
+		- Canada (600)
+		- Argentina (600)
+- The Hmong is thought to have been in the Huang He (Yellow River) basin of central China 
+- They were slowly driven southward 
+- Marginalized by the expanding population of the Han Chinese
+- The Hmong practiced the shifting cultivation of unirrigated upland crops; 
+	- Buckwheat, 
+	- Barley
+	- and Millet 
 
 # 🧠 Questions
 

@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/Broad Social Goals of an Economic System.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb5afad3ca7e1b24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Ethnic Studies/Hmong People Statelessness.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,17 +167,19 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "bb5afad3ca7e1b24",
+  "active": "26460e44af40016d",
   "lastOpenFiles": [
+    "links.md",
+    "Ethnic Studies/Hmong People Statelessness.md",
+    "Economics/Broad Social Goals of an Economic System.md",
+    "().md",
     "Ethnic Studies/Roma Notes.md",
     "English 12/Personal Narrative Essay Jigsaw; T.S.A. and Cinnamon Buns.md",
     "English 12/Parenting Styles.md",
     "Templates/NoteTemplate.md",
-    "Ethnic Studies/Hmong People Statelessness.md",
     "Home.md",
     "Economics/Economics 101.md",
     "Economics/Comparative advantage and Trade.md",
-    "Economics/Broad Social Goals of an Economic System.md",
     "English 12/The Glass Castle; Welch.md",
     "Economics/No. 2 Economics Model; Production Possibilities Frontier.md",
     "Economics/No. 1 Economics Model; Circular Flow of Economy.md",
@@ -209,9 +198,7 @@
     "Templates/0A_17_WordDictionary",
     "Templates/0A_16_Investment/0A_16_1_Stocks.md",
     "Templates/0A_16_Investment",
-    "Templates/0A_15_Company/0A_15_1_Company.md",
     "Templates/0A_15_Company",
-    "Templates/0A_14_Trackers/0A_14_3_DailyTracker.md",
     "Templates/0A_14_Trackers",
     "Templates/0A_13_Meeting",
     "Templates/0A_12_Contact",

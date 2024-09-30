@@ -13,7 +13,7 @@ type: note
 
 # 🔗 Links
 -  [Hmong American Center](https://www.hmongamericancenter.org/hmong-history/)
-
+- [Hmong | History, Culture, and Language - Britannica](https://www.britannica.com/topic/Hmong)
 # 💡Summery
 
 
@@ -21,18 +21,21 @@ type: note
 
 ## Hmong American Center
 
+### Life in Laos
 - Migrated from southern China in the 19th century to the mountain areas of Laos, Vietnam and Thailand. 
 - Worked with the American CIA in the "secret war" in Laos during the Vietnam war 
 - Forced to flee their homeland after the victory of the communists. 
 
+### Hmong in Wisconsin
 
+#### Who Are the Hmong
 - A group of ethnic people with specific language and culture. 
 - <u>Originally came from China with 4,000 years of history</u>
 	- Had to leave to Vietnam, Laos, Thailand and Burma at the beginning of the 1800's **due to land expansion by the Chinese government**. 
 - Hmong moved out of Laos to seek asylum in European and Western countries after the U.S pulled out of South Vietnam
 - There are about **260,000** Hmong Americans living in the US with the majority of them in California, Minnesota, and Wisconsin. 
 
-
+#### Hmong's Roles with the US during the Vietnam War
 - Early 1960's, the US CIA sought out the Hmong and recruited them to fight a "secret war" against North Vietnamese and communist Pathet Lao. 
 	- The Hmong people were used to: 
 	- harass the communists on Ho Chi Minh Trail 
@@ -46,7 +49,7 @@ type: note
 	- An estimate of 10%, or 35,000 of their population in Laos died as a result
 		- many more who suffered with physical, mental, and emotional trauma to this day. 
 
-
+#### Why Are the Hmong in Wisconsin?
 - Hmong are political refugees that **fled their country because of war and persecutions.**
 - **Legally admitted to the United States by the government** 
 	- initially resettled by church organizations like Catholic Charities and Lutheran Social Service. 
@@ -59,6 +62,7 @@ type: note
 	- Educational opportunities for both children and adults
 	- Agricultural opportunities such as farming and gardening 
 
+#### Hmong Integration in the US
 - The Hmong are currently integrating into the American society, making great strides during the past 37 years. 
 - 95% of all healthy Hmong-Americans are participating in the local workforce
 - Nearly 70% of all Hmong families have become homeowners 
@@ -71,12 +75,15 @@ type: note
 	- Many more have graduated from college and are returning to the community to give back to the community to work.
 	- Becoming this bridge between the Hmong and the larger communities.  
 
+#### Hmong Involved in Hunting and outdoors
+
 - Traditionally, the Hmong always enjoyed the outdoors
 - Hunting and fishing has always been a part of the Hmong's way of life. 
 - Thousands on thousands of Hmong are participating in outdoors activities like fishing, and hunting. 
 - The Hmong are friendly and respectful people.
 	- Will treat others with courtesy and respect 
 
+#### Are the Hmong Coming to the US
 - As of right now there are no more Hmong coming to the US
 	- The last group of Hmong families that came to the US was between 2004 and 2006
 - **The government has no plans on bringing additional Hmong refugees to the country**. 
@@ -84,6 +91,11 @@ type: note
 	- There was a fear that the Lao communist government might imprison or even persecute the Hmong leaders and men who were returned 
 	- Due to their roles during the Vietnam War 
 	- And their resistance against the communist Lao government after the war 
+
+## Hmong | History, Culture, and Language
+
+- 
+
 # 🧠 Questions
 
  

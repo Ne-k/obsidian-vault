@@ -23,14 +23,14 @@ type: note
 
 # 🗒️Notes
 
-## Hmong American Center
+## <u>Hmong American Center</u>
 
-### Life in Laos
+### **Life in Laos**
 - Migrated from southern China in the 19th century to the mountain areas of Laos, Vietnam and Thailand. 
 - Worked with the American CIA in the "secret war" in Laos during the Vietnam war 
 - Forced to flee their homeland after the victory of the communists. 
 
-### Hmong in Wisconsin
+### **Hmong in Wisconsin**
 
 #### Who Are the Hmong
 - A group of ethnic people with specific language and culture. 
@@ -96,7 +96,7 @@ type: note
 	- Due to their roles during the Vietnam War 
 	- And their resistance against the communist Lao government after the war 
 
-## Hmong | History, Culture, and Language
+## <u>Hmong | History, Culture, and Language</u>
 ### **Migration**:
 - Since the late 18th century, Hmong have migrated out of southern China
 - **Population**:
@@ -184,7 +184,7 @@ type: note
 - Technological advances crucial in forming a transnational community
 
 
-## Wikipedia
+## <u>Wikipedia</u>
 ### Main Info
 - Total estimated to be 4-5 million
 - Indigenous group from East and Southeast Asia
@@ -209,7 +209,7 @@ type: note
 - First wave of Hmong refugees, around 30,000, came to US and other Western countries in 1970s, after North Vietnamese takeovers
 - Second wave of Hmong refugees came after the passage of the Refugee Act of 1980
 
-## Stateless People: The Hmong of Laos
+## <u>Stateless People: The Hmong of Laos</u>
 
 ### **Series Context**:
 - Fourth post in a series highlighting cases of statelessness
@@ -241,7 +241,7 @@ type: note
 - Little hope for Hmong to be a unified people or have a state
 
 
-## Consequences of Statelessness on Hmong Christians
+## <u>Consequences of Statelessness on Hmong Christians</u>
 
 ### **Denial Of Documents**:
 - Provincial governments in Vietnam deny household registration and national ID documents to members of unrecognized religions or banned churches
@@ -329,7 +329,7 @@ type: note
     - **Article 30**: Rights of children belonging to ethnic, religious, or linguistic minorities to enjoy their culture, religion, and language.
     - **Compliance by Vietnam to the CRC**
 
-## A Stateless People
+## <u>A Stateless People</u>
 
 ### **Ann Coulter's Remarks**
 - Ann Coulter criticized both illegal and legal immigrants, singling out Hmong Americans as murderers and rapists.

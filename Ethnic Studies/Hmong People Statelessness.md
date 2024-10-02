@@ -380,10 +380,6 @@ type: note
 - America is built on contradictions, with a history of both the best and worst impulses.
 - Cindy Yang hopes to move towards the best and embrace her history.
 
-### **Call To Action**
-- Cindy Yang invites others to join her journey and tell a different story filled with resilience and hope.
-- Encourages sharing personal stories and continuing the conversation.
-
 
 # 🧠 Questions
 

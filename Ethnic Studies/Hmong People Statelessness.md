@@ -18,7 +18,9 @@ type: note
 - [Stateless People: The Hmong of Laos](https://standnow.org/2012/12/20/stateless-people-the-hmong-of-laos/)
 - [Consequences of Statelessness on Hmong Christians: The children of Subdivision 181 in Vietnam](https://www.ohchr.org/sites/default/files/2022-01/Boat-People-SOS.pdf)
 - [A Stateless People](https://takeactionminnesota.org/a-stateless-people/)
-- [The history of the Hmong People from Laos](https://www.hmongofwa.org/our-history.html)
+- [The History of the Hmong People from Laos](https://www.hmongofwa.org/our-history.html)
+- [Hmong Children: A Challenging World in Ban VInai](https://www.culturalsurvival.org/publications/cultural-survival-quarterly/hmong-children-changing-world-ban-vinai)
+> That's a lot of words, too bad I ain't reading them ![[ban-vinai-the-refugee-camp-9780231878760_compress.pdf]]
 # 💡Summery
 
 
@@ -409,7 +411,7 @@ type: note
 	- and diseases.
 - 150,000 Hmong have fled Laos due to communist forces in 1975
 
-### **After the War**
+### **After The War**
 - Hmong villages were either bombed or burned by the North Vietnamese + Lao communist regime 
 	- A large number of Hmong became refugees 
 - 50 tons of rice (a day) fed more than 100,000 Hmong
@@ -437,7 +439,35 @@ type: note
 
 
 
+## Hmong Children: A Changing World in Ban Vinai
 
+### Ban Vinai
+- Small valley amid rolling dry hills 15 miles south of the Mekong River 
+- Home to 45,000 Hmong and other trives across the highlands of Laos
+	- Fled due to association with Hmong General Vang Pao's guerrilla army
+
+### Prior to the War Involvement
+- The Hmong were always separate from other Laotian groups 
+- Lived a largely peaceful life
+	- Migrating from mountain rage to mountain range 
+- Strict system of patriarchy with obligation due in tern to elder brothers, fathers, village chiefs and clan leaders. 
+- The Hmong are likely don't trust anyone except their clan leaders 
+- When they decide to do something, only their clan leaders can convince them or stop them from doing it 
+- The hierarchical social order of the Hmong is under pressure from the new influences of life in the camps. 
+
+### After the War
+- Early 1980s, the resettlement into the United States slowed to a trickle
+	- General Vang Pao in the US told the Hmong in Thailand that they should stay in the camps until they were strong enough to retake Laos
+- Older Hmong now have to face the trauma and dislocation of a new life in an industrial society
+	- Those with the most gain from resettlement did not offer their names to the refugee agencies 
+- More than 10,000 camp residents applied for resettlement 
+- The effects of 'internationalization' caused the second generation Hmong at Ban Vinai to break Hmong traditions 
+- The second generation Hmong developed a different set of norms because of the exposure from Ban Vinai
+- "If they return to Laos, can we assure they will resume life as farmers?"
+- Many of the young Hmong, are now 
+	- Playing guitars instead of bamboo pipes 
+	- Wearing slacks, sneakers and sports shirts instead of traditional handmade clothes
+	- Prefers videos to learning the skills of storytelling and folk tales 
 # 🧠 Questions
 
  

@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8ff7694a26090e67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ethnic Studies/Hmong People Statelessness.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,10 +180,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "26460e44af40016d",
+  "active": "8ff7694a26090e67",
   "lastOpenFiles": [
-    "Economics/Study Guide.md",
+    "ban-vinai-the-refugee-camp-9780231878760_compress.md",
     "Ethnic Studies/Hmong People Statelessness.md",
+    "Ethnic Studies/ban-vinai-the-refugee-camp-9780231878760_compress.pdf",
+    "Economics/Study Guide.md",
     "Pasted image 20240930144404.png",
     "Pasted image 20240930144332.png",
     "Ethnic Studies/Roma Notes.md",
@@ -196,7 +211,6 @@
     "Templates/0A_7_Blog/0A_7_1_Blog.md",
     "Templates/0A_17_WordDictionary/0A_17_1_WordDictionary.md",
     "Templates/0A_99_Index/0A_99_Index.md",
-    "Templates/0A_11_Application/0A_11_Application.md",
     "Templates/0A_99_Index",
     "Templates/0A_17_WordDictionary",
     "Templates/0A_16_Investment",
@@ -205,7 +219,6 @@
     "Templates/0A_13_Meeting",
     "Templates/0A_12_Contact",
     "Templates/0A_11_Application",
-    "Templates/0A_10_Entertainment",
-    "Templates/0A_9_Recipes"
+    "Templates/0A_10_Entertainment"
   ]
 }

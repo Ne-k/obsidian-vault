@@ -18,6 +18,7 @@ type: note
 - [Stateless People: The Hmong of Laos](https://standnow.org/2012/12/20/stateless-people-the-hmong-of-laos/)
 - [Consequences of Statelessness on Hmong Christians: The children of Subdivision 181 in Vietnam](https://www.ohchr.org/sites/default/files/2022-01/Boat-People-SOS.pdf)
 - [A Stateless People](https://takeactionminnesota.org/a-stateless-people/)
+- [The history of the Hmong People from Laos](https://www.hmongofwa.org/our-history.html)
 # 💡Summery
 
 
@@ -379,6 +380,62 @@ type: note
 - The immigrant story is complicated and evolving.
 - America is built on contradictions, with a history of both the best and worst impulses.
 - Cindy Yang hopes to move towards the best and embrace her history.
+
+
+## The History of the Hmong People from Laos
+
+### **The Vietnam War**
+- Distinctive culture, including dress, oral literature and religion. 
+- Valued their autonomy and close knit community 
+- The US recruited the Hmong to fight against communism 
+	- Because they want to hold onto their land and independence they had for thousands of years 
+- The Hmong saw communism as a threat to their autonomy
+- 30,000 Hmong men in the war:
+	- Fought on the ground war, 
+	- flew combat missions,
+	- directed air strikes, 
+	- rescued downed American fliers, 
+	- fought behind enemy lines, 
+	- gathered intelligence on the movements of North Vietnamese troops
+	- + more
+- Hmong soldiers died at a rate **ten times as high** as that of American soldiers in Vietnam 
+- Between 300,000 and 400,000 Hmong lived in Laos
+- An estimated range from one tenth to half of the Hmong population was killed. 
+	- Mostly civilians killed by: 
+	- mortar fire, 
+	- land mines, 
+	- grenades, 
+	- postwar massacres, 
+	- and diseases.
+- 150,000 Hmong have fled Laos due to communist forces in 1975
+
+### **After the War**
+- Hmong villages were either bombed or burned by the North Vietnamese + Lao communist regime 
+	- A large number of Hmong became refugees 
+- 50 tons of rice (a day) fed more than 100,000 Hmong
+- **February 1973** The Vientiane Agreement was signed 
+	- Called for a cease-fire in Laos
+	- Coalition government 
+	- And the end of U.S air support 
+- The Lao's People Party declared Hmong enemies of the state
+- Maintained a neutral role during the war. 
+- 1,000 to 3,000 of mostly high ranking Hmong were airlifted to Thailand 
+- The Hmong were forcibly relocated to lowland areas and assigned to state-owned collective farms 
+- With fear of retribution and famine most Hmong chose to migrate to Thailand on foot 
+	- In which many of the Hmong died from the following when crossing the Mekong River:
+		- Diseases, 
+		- Starvation, 
+		- Exposure
+		- and drowning 
+
+### Refugee Camps
+- Most Hmong were placed in Ban Vinai camp
+	- No electricity, running water, or sewage disposal 
+	- + Overcrowded 
+- At peak it's peak in 1986, Van Vinai had 42,858 residents, with 90% being Hmong
+- The Thai government closed the Ban VInai camp in 1992
+
+
 
 
 # 🧠 Questions

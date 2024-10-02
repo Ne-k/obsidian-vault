@@ -37,7 +37,7 @@ type: note
 
 
 
-# Summarization Script 
+# Summarization Script
 ```python
 import requests
 

@@ -5,12 +5,10 @@ updated_date: {{date:MM/DD/YYYY}}
 type: note
 ---
 
-# 📅 {{title}}
-- **🏷️Tags** : #{{date:MM-DD-YYYY}} #Notes 
-
+# 📅 Hmong People's Statelessness
+- **🏷️Tags** : #10-2-2024 #Notes 
 # ✅ Assignments
 - [ ]  [Finish Assignment ](https://classroom.google.com/u/2/c/NjkyMDIwOTk1NTMx/m/NzE5NzAyNTEzMTMw/details)
-
 # 🔗 Links
 - [Hmong American Center](https://www.hmongamericancenter.org/hmong-history/)
 - [Hmong | History, Culture, and Language - Britannica](https://www.britannica.com/topic/Hmong)
@@ -446,7 +444,7 @@ type: note
 - Home to 45,000 Hmong and other trives across the highlands of Laos
 	- Fled due to association with Hmong General Vang Pao's guerrilla army
 
-### **Prior to the War Involvement**
+### **Prior To the War Involvement**
 - The Hmong were always separate from other Laotian groups 
 - Lived a largely peaceful life
 	- Migrating from mountain rage to mountain range 
@@ -455,7 +453,7 @@ type: note
 - When they decide to do something, only their clan leaders can convince them or stop them from doing it 
 - The hierarchical social order of the Hmong is under pressure from the new influences of life in the camps. 
 
-### **After the War**
+### **After The War**
 - Early 1980s, the resettlement into the United States slowed to a trickle
 	- General Vang Pao in the US told the Hmong in Thailand that they should stay in the camps until they were strong enough to retake Laos
 - Older Hmong now have to face the trauma and dislocation of a new life in an industrial society

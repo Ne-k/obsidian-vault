@@ -25,12 +25,12 @@ type: note
 
 ## <u>Hmong American Center</u>
 
-### **Life in Laos**
+### **Life In Laos**
 - Migrated from southern China in the 19th century to the mountain areas of Laos, Vietnam and Thailand. 
 - Worked with the American CIA in the "secret war" in Laos during the Vietnam war 
 - Forced to flee their homeland after the victory of the communists. 
 
-### **Hmong in Wisconsin**
+### **Hmong In Wisconsin**
 
 #### Who Are the Hmong
 - A group of ethnic people with specific language and culture. 
@@ -178,7 +178,7 @@ type: note
     - Resettled in countries like the United States, Canada, France, French Guiana, Australia, and New Zealand
     - Families split apart during resettlements
 
-### **Diaspora and Community**:
+### **Diaspora And Community**:
 - Diasporic Hmong tracing family roots and revisiting homelands
 - New contacts formed across the Hmong global community through audio- and videocassettes and the Internet
 - Technological advances crucial in forming a transnational community
@@ -241,7 +241,7 @@ type: note
 - Little hope for Hmong to be a unified people or have a state
 
 
-## <u>Consequences of Statelessness on Hmong Christians</u>
+## <u>Consequences Of Statelessness on Hmong Christians</u>
 
 ### **Denial Of Documents**:
 - Provincial governments in Vietnam deny household registration and national ID documents to members of unrecognized religions or banned churches

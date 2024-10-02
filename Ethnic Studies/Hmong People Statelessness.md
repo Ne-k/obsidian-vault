@@ -430,7 +430,7 @@ type: note
 		- Exposure
 		- and drowning 
 
-### Refugee Camps
+### **Refugee Camps**
 - Most Hmong were placed in Ban Vinai camp
 	- No electricity, running water, or sewage disposal 
 	- + Overcrowded 
@@ -441,12 +441,12 @@ type: note
 
 ## Hmong Children: A Changing World in Ban Vinai
 
-### Ban Vinai
+### **Ban Vinai**
 - Small valley amid rolling dry hills 15 miles south of the Mekong River 
 - Home to 45,000 Hmong and other trives across the highlands of Laos
 	- Fled due to association with Hmong General Vang Pao's guerrilla army
 
-### Prior to the War Involvement
+### **Prior to the War Involvement**
 - The Hmong were always separate from other Laotian groups 
 - Lived a largely peaceful life
 	- Migrating from mountain rage to mountain range 
@@ -455,7 +455,7 @@ type: note
 - When they decide to do something, only their clan leaders can convince them or stop them from doing it 
 - The hierarchical social order of the Hmong is under pressure from the new influences of life in the camps. 
 
-### After the War
+### **After the War**
 - Early 1980s, the resettlement into the United States slowed to a trickle
 	- General Vang Pao in the US told the Hmong in Thailand that they should stay in the camps until they were strong enough to retake Laos
 - Older Hmong now have to face the trauma and dislocation of a new life in an industrial society

@@ -20,6 +20,59 @@ type: note
 - [Hmong Children: A Challenging World in Ban VInai](https://www.culturalsurvival.org/publications/cultural-survival-quarterly/hmong-children-changing-world-ban-vinai)
 > That's a lot of words, too bad I ain't reading them ![[ban-vinai-the-refugee-camp-9780231878760_compress.pdf]]
 # 💡Summery
+### Life In Laos
+- Migrated from southern China in the 19th century to mountainous areas of Laos, Vietnam, and Thailand.
+- Worked with the American CIA in the "secret war" during the Vietnam War.
+- Forced to flee their homeland after the victory of the communists.
+
+### Hmong in Wisconsin
+- Approximately 260,000 Hmong Americans live in the US, mainly in California, Minnesota, and Wisconsin.
+- Politically admitted as refugees due to war and persecution.
+
+#### Roles During the Vietnam War
+- Recruited by the US CIA to fight against North Vietnamese and communist Pathet Lao.
+- Provided intelligence, guarded US radar installations, and rescued American pilots.
+
+### Integration in the US
+- Significant progress over 37 years.
+- 95% of healthy Hmong-Americans participate in the workforce.
+- Nearly 70% of Hmong families are homeowners.
+- Growing number of Hmong-owned businesses and college graduates.
+
+### Traditional and Cultural Practices
+- Enjoy outdoor activities like hunting and fishing.
+- Rich cultural heritage with embroidery, love songs, and unique marriage customs.
+- Practice shamanism and have elaborate funeral rites.
+
+### Political Leadership
+- Sometimes led by shamans.
+- No specific political institution above the village level.
+- Periodic armed revolts against colonial and postcolonial authorities.
+
+### Migration and Conflicts
+- Migrated due to hostility in China, Thailand, Vietnam, and Laos.
+- Fought significant conflicts during the 20th century, especially the Vietnam War.
+- Many fled to refugee camps and resettled in countries like the US, Canada, and France.
+
+### Statelessness
+- Many Hmong Christians in Vietnam denied documentation, leading to restricted movement and lack of public benefits.
+- Ongoing battle for recognition and rights.
+
+### Feelings of Discrimination
+- Face hostility and discrimination in the US.
+- Often labeled as criminals and told to "go back home."
+
+### Refugee Camps
+- Placed in overcrowded camps with poor living conditions post-Vietnam War.
+- Many died during the dangerous journey to Thailand.
+
+### Impact of the War
+- Hmong villages bombed or burned, leading to a large number of refugees.
+- Faced persecution and harsh living conditions post-war.
+
+### American Identity
+- Hmong Americans advocate for compassion towards stateless people and immigrants.
+- Strive to embrace their history and contribute positively to society.
 
 
 # 🗒️Notes

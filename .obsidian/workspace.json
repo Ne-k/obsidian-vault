@@ -4,22 +4,61 @@
     "type": "split",
     "children": [
       {
-        "id": "68451c2cab202156",
+        "id": "d241c155127f99d6",
         "type": "tabs",
         "children": [
           {
-            "id": "8ff7694a26090e67",
+            "id": "94e0b52288d25977",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Economics/Assets/EquilibriumQuantity-3d51042295814ceda425f70c182d9e76.png"
+              },
+              "icon": "lucide-image",
+              "title": "EquilibriumQuantity-3d51042295814ceda425f70c182d9e76"
+            }
+          },
+          {
+            "id": "dc5c5615a8605f23",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Economics/Assets/EquilibriumQuantity-3d51042295814ceda425f70c182d9e76.png"
+              },
+              "icon": "lucide-image",
+              "title": "EquilibriumQuantity-3d51042295814ceda425f70c182d9e76"
+            }
+          },
+          {
+            "id": "05a9ebf48f164685",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Economics/Assets/market_clearing_price.png"
+              },
+              "icon": "lucide-image",
+              "title": "market_clearing_price"
+            }
+          },
+          {
+            "id": "298a7b173cfe3661",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ethnic Studies/Hmong People Statelessness.md",
+                "file": "Ethnic Studies/Background to the Palestinian Israeli Conflict.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Background to the Palestinian Israeli Conflict"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -39,7 +78,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +95,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,14 +105,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 268.5
   },
   "right": {
     "id": "001665bf35b7b593",
@@ -85,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ethnic Studies/Hmong People Statelessness.md",
+                "file": "Ethnic Studies/Background to the Palestinian Israeli Conflict.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +138,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Background to the Palestinian Israeli Conflict"
             }
           },
           {
@@ -102,10 +149,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ethnic Studies/Hmong People Statelessness.md",
+                "file": "Ethnic Studies/Background to the Palestinian Israeli Conflict.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Background to the Palestinian Israeli Conflict"
             }
           },
           {
@@ -116,7 +165,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +176,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ethnic Studies/Hmong People Statelessness.md"
-              }
+                "file": "Ethnic Studies/Background to the Palestinian Israeli Conflict.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Background to the Palestinian Israeli Conflict"
             }
           },
           {
@@ -134,15 +187,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "a8b5bdc58107fbe6",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ],
@@ -162,48 +209,57 @@
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "8ff7694a26090e67",
+  "active": "298a7b173cfe3661",
   "lastOpenFiles": [
-    "Ethnic Studies/Roma Notes.md",
-    "Ethnic Studies/ban-vinai-the-refugee-camp-9780231878760_compress.pdf",
-    "Ethnic Studies/Hmong People Statelessness.md",
-    "Economics/Study Guide.md",
-    "Templates/NoteTemplate.md",
-    "Ethnic Studies/test.md",
-    "Ethnic Studies/Test.md",
-    "Test.md",
-    "Economics/No. 2 Economics Model; Production Possibilities Frontier.md",
-    "ban-vinai-the-refugee-camp-9780231878760_compress.md",
-    "Pasted image 20240930144404.png",
-    "Pasted image 20240930144332.png",
-    "Home.md",
-    "links.md",
+    "Economics/Supply and Demand.md",
+    "Ethnic Studies/Background to the Palestinian Israeli Conflict.md",
     "Economics/Broad Social Goals of an Economic System.md",
-    "().md",
-    "English 12/Personal Narrative Essay Jigsaw; T.S.A. and Cinnamon Buns.md",
-    "English 12/Parenting Styles.md",
-    "Economics/Economics 101.md",
-    "Economics/Comparative advantage and Trade.md",
-    "English 12/The Glass Castle; Welch.md",
-    "Economics/No. 1 Economics Model; Circular Flow of Economy.md",
+    "Price-elasticity-of-Demand-1.webp",
+    "Price-FLOOR.png",
+    "price-floor-and-ceilings.jpg",
+    "price-ceiling1.png",
+    "ceiling.webp",
+    "Economics/Assets/unnamed.gif",
+    "Economics/Assets/market_clearing_price.png",
+    "Economics/Assets/291_3.jpg",
+    "Economics/Assets/EquilibriumQuantity-3d51042295814ceda425f70c182d9e76.png",
+    "Economics/Assets/surplusformula-graph2.webp",
     "Economics/Vocabulary.md",
-    "English 12/Warm Ups.md",
-    "Economics/Econ 101.md",
-    "Templates/0A_Index.md",
-    "0A_2_1_List.md",
-    "Templates/0A_3_Project/0A_3_3_Project_V2.md",
-    "Templates/0A_99_Index",
-    "Templates/0A_17_WordDictionary",
-    "Templates/0A_16_Investment",
-    "Templates/0A_15_Company",
-    "Templates/0A_14_Trackers",
-    "Templates/0A_13_Meeting",
-    "Templates/0A_12_Contact",
-    "Templates/0A_11_Application",
-    "Templates/0A_10_Entertainment"
+    "Economics/Study Guide.md",
+    "Economics/Comparative advantage and Trade.md",
+    "Economics/Assets/Recording 20241010124241.webm",
+    "English 12/English Notes.md",
+    "Templates/NoteTemplate.md",
+    "English 12/Personal Narrative Essay Jigsaw; T.S.A. and Cinnamon Buns.md",
+    "English 12/The Glass Castle; Welch.md",
+    "English 12/The Glass Castle Movie.md",
+    "English 12/Parenting Styles.md",
+    "Gamified Cybersecurity.md",
+    "Economics/Assets/Recording 20241008131919.webm",
+    "Economics/Assets/transcript(1).srt",
+    "Recording 20241008131919.webm",
+    "whisper-web/vite.config.ts.timestamp-1728418735597-0c01e4574ee7f.mjs",
+    "Home.md",
+    "Ethnic Studies/Roma Notes.md",
+    "whisper-web/node_modules/slash/package.json",
+    "whisper-web/node_modules/slash/readme.md",
+    "whisper-web/node_modules/slash/index.js",
+    "whisper-web/node_modules/slash/index.d.ts",
+    "whisper-web/node_modules/slash/license",
+    "whisper-web/node_modules/slash",
+    "whisper-web/node_modules/globby/readme.md",
+    "whisper-web/node_modules/sharp/vendor/8.14.2/win32-x64/THIRD-PARTY-NOTICES.md",
+    "whisper-web/node_modules/safe-buffer/README.md",
+    "whisper-web/node_modules/simple-concat/README.md",
+    "whisper-web/node_modules/eslint-plugin-react/node_modules/resolve/SECURITY.md",
+    "whisper-web/node_modules/globalthis/README.md",
+    "whisper-web/node_modules/globalthis/CHANGELOG.md",
+    "whisper-web/node_modules/array.prototype.flatmap/README.md",
+    "whisper-web/node_modules/array.prototype.flatmap/CHANGELOG.md",
+    "whisper-web/node_modules/prebuild-install/README.md"
   ]
 }

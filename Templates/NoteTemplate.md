@@ -24,9 +24,10 @@ type: note
 
 # 🧠 Questions
 
+# 💬 Recording and Transcription
+
+
  
-
-
 
 # Summarization Script
 ```python

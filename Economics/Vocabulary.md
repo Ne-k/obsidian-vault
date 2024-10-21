@@ -1,13 +1,13 @@
 
-## Scarcity 
+## Scarcity
 **Unlimited** wants but **limited** needs 
-## Resources 
+## Resources
 An economic or productive -- required to accomplish an activity 
 
 Unlimited Wants, **Limited** Resources 
 
 ---
-## Scarcity and abundance 
+## Scarcity and Abundance
 ### Definitions
 - A situation in which human wants are **<u>greater than the capacity</u>** of available resources to provide for the wants
 - A situation in which a resource has **<u>more than one</u>** valuable use
@@ -26,7 +26,7 @@ Unlimited Wants, **Limited** Resources
 
 ---
 
-### Vocabulary: Factors of production
+### Vocabulary: Factors of Production
 
 - **Human Resources (Labor)**: The number of people available for work. 
 - **Natural Resource (Land)**: Land that can be used for production. 

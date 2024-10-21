@@ -1,0 +1,19 @@
+{
+  "editor:toggle-comments": [],
+  "audio-recorder:stop": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Delete"
+    }
+  ],
+  "audio-recorder:start": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Insert"
+    }
+  ]
+}

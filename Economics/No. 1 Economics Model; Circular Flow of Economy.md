@@ -20,7 +20,7 @@ type: note
 # 🗒️Notes
 
 
-### Roles in the economy
+### Roles in the Economy
 
 - People participate in the economy in may different ways. 
 	- <u>Consumers</u>: Buying goods and services
@@ -32,7 +32,7 @@ type: note
 
 --- 
 
-### Vocabulary: Factors of production
+### Vocabulary: Factors of Production
 
 - **Human Resources (Labor)**: The number of people available for work. 
 - **Natural Resource (Land)**: Land that can be used for production. 
@@ -44,7 +44,7 @@ type: note
 
 
 
-# Summarization Script 
+# Summarization Script
 ```python
 import requests
 

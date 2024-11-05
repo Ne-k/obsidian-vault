@@ -23,42 +23,18 @@
             "id": "dc5c5615a8605f23",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Economics/Assets/EquilibriumQuantity-3d51042295814ceda425f70c182d9e76.png"
-              },
-              "icon": "lucide-image",
-              "title": "EquilibriumQuantity-3d51042295814ceda425f70c182d9e76"
-            }
-          },
-          {
-            "id": "05a9ebf48f164685",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Economics/Assets/market_clearing_price.png"
-              },
-              "icon": "lucide-image",
-              "title": "market_clearing_price"
-            }
-          },
-          {
-            "id": "298a7b173cfe3661",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Ethnic Studies/Background to the Palestinian Israeli Conflict.md",
+                "file": "English 12/What is Hamas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Background to the Palestinian Israeli Conflict"
+              "title": "What is Hamas"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,10 +152,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ethnic Studies/Background to the Palestinian Israeli Conflict.md"
+                "file": "English 12/What is Hamas.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Background to the Palestinian Israeli Conflict"
+              "title": "Outline of What is Hamas"
             }
           },
           {
@@ -213,24 +189,36 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "298a7b173cfe3661",
+  "active": "dc5c5615a8605f23",
   "lastOpenFiles": [
+    "Economics/Consumer Behavior & Elasticity.md",
+    "English 12/What is Hamas.md",
+    "Economics/Supply and Demand Study Guide.md",
     "Economics/Supply and Demand.md",
-    "Ethnic Studies/Background to the Palestinian Israeli Conflict.md",
-    "Economics/Broad Social Goals of an Economic System.md",
-    "Price-elasticity-of-Demand-1.webp",
-    "Price-FLOOR.png",
-    "price-floor-and-ceilings.jpg",
-    "price-ceiling1.png",
-    "ceiling.webp",
     "Economics/Assets/unnamed.gif",
-    "Economics/Assets/market_clearing_price.png",
-    "Economics/Assets/291_3.jpg",
     "Economics/Assets/EquilibriumQuantity-3d51042295814ceda425f70c182d9e76.png",
-    "Economics/Assets/surplusformula-graph2.webp",
+    "Economics/No. 1 Economics Model; Circular Flow of Economy.md",
+    "Economics/No. 2 Economics Model; Production Possibilities Frontier.md",
+    "Economics/Economics 101.md",
+    "images.png",
+    "Elastic-vs.-Inelastic-vs.-Perfectly-Inelastic-Demand.jpg",
+    "Supply_Elasticity_05.png",
+    "Economics/Broad Social Goals of an Economic System.md",
+    "Economics/Comparative advantage and Trade.md",
+    "price-elasticity-formula-explained-1024x532.webp",
     "Economics/Vocabulary.md",
     "Economics/Study Guide.md",
-    "Economics/Comparative advantage and Trade.md",
+    "whisper-web/vite.config.ts.timestamp-1729706711609-4bcf340285591.mjs",
+    "Ethnic Studies/Background to the Palestinian Israeli Conflict.md",
+    "Ethnic Studies/Assets/Israel-Palestine-Background1.txt",
+    "Ethnic Studies/Assets/Israel-Palestine-1.webm",
+    "Ethnic Studies/Assets/transcript.txt",
+    "Ethnic Studies/Assets/ban-vinai-the-refugee-camp-9780231878760_compress.pdf",
+    "Economics/Assets/ceiling.webp",
+    "Economics/Assets/price-ceiling1.png",
+    "whisper-web/vite.config.ts.timestamp-1729533192000-dc97d08414fda.mjs",
+    "Economics/Assets/Price-elasticity-of-Demand-1.webp",
+    "Economics/Assets/Price-FLOOR.png",
     "Economics/Assets/Recording 20241010124241.webm",
     "English 12/English Notes.md",
     "Templates/NoteTemplate.md",
@@ -242,24 +230,12 @@
     "Economics/Assets/Recording 20241008131919.webm",
     "Economics/Assets/transcript(1).srt",
     "Recording 20241008131919.webm",
-    "whisper-web/vite.config.ts.timestamp-1728418735597-0c01e4574ee7f.mjs",
     "Home.md",
     "Ethnic Studies/Roma Notes.md",
-    "whisper-web/node_modules/slash/package.json",
     "whisper-web/node_modules/slash/readme.md",
-    "whisper-web/node_modules/slash/index.js",
-    "whisper-web/node_modules/slash/index.d.ts",
-    "whisper-web/node_modules/slash/license",
-    "whisper-web/node_modules/slash",
     "whisper-web/node_modules/globby/readme.md",
     "whisper-web/node_modules/sharp/vendor/8.14.2/win32-x64/THIRD-PARTY-NOTICES.md",
     "whisper-web/node_modules/safe-buffer/README.md",
-    "whisper-web/node_modules/simple-concat/README.md",
-    "whisper-web/node_modules/eslint-plugin-react/node_modules/resolve/SECURITY.md",
-    "whisper-web/node_modules/globalthis/README.md",
-    "whisper-web/node_modules/globalthis/CHANGELOG.md",
-    "whisper-web/node_modules/array.prototype.flatmap/README.md",
-    "whisper-web/node_modules/array.prototype.flatmap/CHANGELOG.md",
-    "whisper-web/node_modules/prebuild-install/README.md"
+    "whisper-web/node_modules/simple-concat/README.md"
   ]
 }

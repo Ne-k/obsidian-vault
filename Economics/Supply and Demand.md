@@ -38,7 +38,7 @@ type: note
 ### The Demand Curve: The Relationship between Price and Quantity Demanded
 - **Demand Curve**
 	- The **Demand Curve** is a graph of the relationship between the price of a good and the quantity demanded. 
-	- ![[Draw-a-Demand-Curve-Step-4-1.png]]
+	-  ![[Draw-a-Demand-Curve-Step-4-1.png]]
 	- The price **Moves it**, not **Shift**
 	- Price = movement in quantity demanded. 
 ### Market Demand versus Individual Demand
@@ -60,16 +60,16 @@ type: note
 - Move is != shift 
 
 ## The Shifters of Demand <u>TOEISS</u> (AKA The Determinants of Demand)
-- <u>T</u>astes in Preferences
-- <u>O</u>ther related goods
+- <b><u>T</u>astes in Preferences</b>
+- <b><u>O</u>ther related goods</b>
 	- Substitute (Coke Vs. Pepsi, Xbox Vs. Nintendo Switch, etc.) 
 	- Complements (Peanut Butter & Jelly, etc.)
-- <u>E</u>xpectations 
-- <u>I</u>ncome
+- <b><u>E</u>xpectations </b>
+- <b><u>I</u>ncome</b>
 	- Normal Goods (Income goes up, you buy more of it) 
 	- Inferior Goods (Income goes up, you buy less of it)
-- <u>S</u>ize of Market (Number of Buyers)
-- <u>S</u>pecial Circumstances (e.g Winter Olympics)
+- <b><u>S</u>ize of Market (Number of Buyers)</b>
+- <b><u>S</u>pecial Circumstances (e.g Winter Olympics)</b>
 
 > ![[Shift-in-Demand-Curve-copy.webp]]
 
@@ -86,6 +86,7 @@ type: note
 	- The **Law of Supply** states that, other things equal, the quantity supplied of a good rises when the price of the good rises. 
 - Supply schedule 
 	- The **Supply Schedule** is a table that shows the relationship between the price of the good and the quantity supplied. 
+
 > ![[Supply schedule.png]]
 - Supply curve
 	- The **Supply curve** is the graph of the relationship between the price of a good and the quantity supplied. 
@@ -97,23 +98,24 @@ type: note
 - Change in **Quantity Supplied**
 	- Movement along the supply curve. 
 	- Caused by a **change in price**
-> ![[images.png]]
+
+> 	![[images.png]]
 ### Shifts in the Supply Curve
 - Change in Supply
 	- A shift in the supply curve, either to the left or right. 
 	- Caused by a change in a determinant other than price. 
 
 ## Shifters of the Supply Curve... <u>STORES</u>! (The Determinants of Supply)
-- <u>S</u>ellers
-- <u>T</u>echnology
-- <u>O</u>ther Outputs
+- <b><u>S</u>ellers</b>
+- <b><u>T</u>echnology</b>
+- <b><u>O</u>ther Outputs</b>
 	- Final product
-- <u>R</u>esources (Input Prices)
+- <b><u>R</u>esources (Input Prices)</b>
 	- Labor 
 	- Ingredients
 	- What takes to make it
-- <u>E</u>xpectations 
-- <u>S</u>ubsidies and taxes
+- <b><u>E</u>xpectations</b>
+- <b><u>S</u>ubsidies and taxes</b>
 	- Giving money to some money or business to supply something. Tax credit. 
 > ![[bFQ2s.gif]]
 
@@ -147,6 +149,7 @@ type: note
 		-  ![[291_3.jpg]]
 			- There is excess demanded or a shortage. 
 			- Supplies will raise the price due to too many buyers chasing too few goods, thereby moving towards equilibrium.
+
 > When the **demand is higher** than the supply, sellers lower the price.
 > When the **demand is lower** than the supply, sellers raise the price.
 
@@ -154,13 +157,15 @@ type: note
 	- The claim that the price of any good adjusts to bring the quantity supplied and the quantity demanded for that good into balance. 
 
 ## Three Steps to Analyzing Changes in Equilibrium
+
 - Shifts in Curves versus Movement along Curves
-	- A shift in the supply curve is called a **change in supply**. 
-	- A movement along a fixed supply curve is called a **change in quantity supplied**.
-	- A shift in the demand curve us called a **Change in Demand**
-	- A movement along a fixed demand curve is called a **change in quantity demanded**. 
+	- A **shift** in the supply curve is called a **change in supply**. 
+	- A **movement along** a fixed supply curve is called a **change in quantity supplied**.
+	- A **shift** in the demand curve us called a **Change in Demand**
+	- A **movement along** a fixed demand curve is called a **change in quantity demanded**. 
 
 ## Price Ceilings
+
 > Max price a seller is allowed to charge, the legal limit 
 > ![[price-ceiling1.png]]
 
@@ -168,6 +173,7 @@ type: note
 	- Rent control 
 
 ## Price Floor
+
 > The minimal legal price
 > ![[Price-FLOOR.png]]
 
@@ -177,10 +183,9 @@ type: note
 ## Price Elasticity of Demand
 > ![[Price-elasticity-of-Demand-1.webp]]
 - **Price Elasticity of Demand**: The measure of how much quantity demanded changes relative to price change. 
-	- Long-run demanded is usually more elastic than short-run demand. 
+	- Long-run demanded is usually **more elastic** than short-run demand. 
 		- **% change is less 1 = inelastic**
 		- **% change is 1 or more = elastic**
-	- 
 
 
 # 🧠 Questions

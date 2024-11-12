@@ -32,9 +32,23 @@
               "icon": "lucide-file",
               "title": "What is Hamas"
             }
+          },
+          {
+            "id": "d1f8529c3701c85d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ethnic Studies/Mapping the path to Genocide.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mapping the path to Genocide"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -152,10 +166,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English 12/What is Hamas.md"
+                "file": "Ethnic Studies/Mapping the path to Genocide.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of What is Hamas"
+              "title": "Outline of Mapping the path to Genocide"
             }
           },
           {
@@ -189,17 +203,21 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "dc5c5615a8605f23",
+  "active": "d1f8529c3701c85d",
   "lastOpenFiles": [
+    "Economics/Macro-Micro Economics.md",
+    "Ethnic Studies/Mapping the path to Genocide.md",
+    "Pasted image 20241107132000.png",
+    "Economics/Economics 101.md",
+    "English 12/English Notes.md",
+    "Economics/Supply and Demand Study Guide.md",
     "Economics/Consumer Behavior & Elasticity.md",
     "English 12/What is Hamas.md",
-    "Economics/Supply and Demand Study Guide.md",
     "Economics/Supply and Demand.md",
     "Economics/Assets/unnamed.gif",
     "Economics/Assets/EquilibriumQuantity-3d51042295814ceda425f70c182d9e76.png",
     "Economics/No. 1 Economics Model; Circular Flow of Economy.md",
     "Economics/No. 2 Economics Model; Production Possibilities Frontier.md",
-    "Economics/Economics 101.md",
     "images.png",
     "Elastic-vs.-Inelastic-vs.-Perfectly-Inelastic-Demand.jpg",
     "Supply_Elasticity_05.png",
@@ -218,9 +236,7 @@
     "Economics/Assets/price-ceiling1.png",
     "whisper-web/vite.config.ts.timestamp-1729533192000-dc97d08414fda.mjs",
     "Economics/Assets/Price-elasticity-of-Demand-1.webp",
-    "Economics/Assets/Price-FLOOR.png",
     "Economics/Assets/Recording 20241010124241.webm",
-    "English 12/English Notes.md",
     "Templates/NoteTemplate.md",
     "English 12/Personal Narrative Essay Jigsaw; T.S.A. and Cinnamon Buns.md",
     "English 12/The Glass Castle; Welch.md",
@@ -234,8 +250,6 @@
     "Ethnic Studies/Roma Notes.md",
     "whisper-web/node_modules/slash/readme.md",
     "whisper-web/node_modules/globby/readme.md",
-    "whisper-web/node_modules/sharp/vendor/8.14.2/win32-x64/THIRD-PARTY-NOTICES.md",
-    "whisper-web/node_modules/safe-buffer/README.md",
-    "whisper-web/node_modules/simple-concat/README.md"
+    "whisper-web/node_modules/sharp/vendor/8.14.2/win32-x64/THIRD-PARTY-NOTICES.md"
   ]
 }

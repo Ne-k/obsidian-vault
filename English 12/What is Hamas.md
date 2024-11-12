@@ -110,13 +110,19 @@ Hezbollah has around 150,000 rockets and missiles, including guided missiles and
   
   
 
-6. Who is (was…as he was assassinated Sept. 27, 2024) Hassan Nasrallah, and what are some of the reasons he is (was) both celebrated and criticized?
-
+1. Who is (was…as he was assassinated Sept. 27, 2024) Hassan Nasrallah, and what are some of the reasons he is (was) both celebrated and criticized?
+- Nasrallah became Hezbollah's leader in 1992
+- He was one of the founders of Hezbollah
+- Many people celebrate Nasrallah for causing Israel to withdraw from the south and leading the 2006 war
+- He faces opposition among Lebanese who accuse him of tying their countries fate to Iran
+- Nasrallah lived in hiding for years, often delivering his speeches from undisclosed locations
   
   
   
   
-7. What recent setback did Hezbollah face with its communication devices, and who is believed to be responsible for it?
+2. What recent setback did Hezbollah face with its communication devices, and who is believed to be responsible for it?
+- Thousands of communication devices used by its members exploded in parts of Lebanon, killing 39 people and wounding nearly 3,000, most of them being civilians
+- The attack is widely believed to have been orchestrated by Israel
 
 # 🧠 Questions
 

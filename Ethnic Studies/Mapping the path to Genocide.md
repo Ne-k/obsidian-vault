@@ -54,13 +54,13 @@ Quote Reflection:
 ## The Holocaust
 
 
-| Important Dates        | January 30 1993, March 20 1933, April 1 1933, September 15 1935, November 9-10 1938           |     |
-| ---------------------- | --------------------------------------------------------------------------------------------- | --- |
-| Location               | Germany camps, Poland, Netherland, France, Hungary, Soviet Union                              |     |
-| Causes                 | Antisemitism, Nazi ideology, economic instability, nationalism, propaganda and indoctrination |     |
-| Key Points             | - Adolf Hitler's rise to power in 1933<br>- Nuremburg Laws<br>                                |     |
-| Consequences           |                                                                                               |     |
-| International Response |                                                                                               |     |
+| Important Dates        | - January 30 1993<br>- March 20 1933<br>- April 1 1933<br>- September 15 1935<br>-November 9-10 1938            |     |
+| ---------------------- | --------------------------------------------------------------------------------------------------------------- | --- |
+| Location               | - Germany camps<br>- Poland<br>- Netherland<br>- France<br>- Hungary<br>- Soviet Union                          |     |
+| Causes                 | - Antisemitism<br>- Nazi ideology<br>- economic instability<br>- nationalism<br>- propaganda and indoctrination |     |
+| Key Points             | - Adolf Hitler's rise to power in 1933<br>- Nuremburg Laws<br>                                                  |     |
+| Consequences           |                                                                                                                 |     |
+| International Response |                                                                                                                 |     |
 
 
 

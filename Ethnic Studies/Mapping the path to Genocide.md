@@ -51,6 +51,18 @@ Quote Reflection:
 9. **Denial** is the final stage of genocide and it takes many forms. In some cases perpetrators attempt to cover up the evidence. In other cases, they deny that any crimes were committed or minimize the number of people killed. Denial often begins during the extermination and can last long after the genocide, continuing harm for generations.  
 
 
+## The Holocaust
+
+
+| Important Dates        | January 30 1993, March 20 1933, April 1 1933, September 15 1935, November 9-10 1938           |     |
+| ---------------------- | --------------------------------------------------------------------------------------------- | --- |
+| Location               | Germany camps, Poland, Netherland, France, Hungary, Soviet Union                              |     |
+| Causes                 | Antisemitism, Nazi ideology, economic instability, nationalism, propaganda and indoctrination |     |
+| Key Points             | - Adolf Hitler's rise to power in 1933<br>- Nuremburg Laws<br>                                |     |
+| Consequences           |                                                                                               |     |
+| International Response |                                                                                               |     |
+
+
 
 # 🧠 Questions
 

@@ -5,7 +5,7 @@ updated_date: 11/12/2024
 type: note
 ---
 
-# 📅 Mapping the path to Genocide
+# 📅 Mapping the Path to Genocide
 - **🏷️Tags** : #11-12-2024 #Notes 
 
 # ✅ Assignments
@@ -19,17 +19,17 @@ type: note
 
 # 🗒️Notes
 
-## "A genocide begins with the killing of one man - not for what he has done, but because of who he is." 
+## "A Genocide Begins with the Killing of One Man - not for what He Has Done, but because of Who He is."
 
 Quote Reflection: 
 
 --- 
 
-## What is Genocide? 
+## What is Genocide?
 - The "Ten Stages of Genocide" is a formula for how a society can engage in genocide. <u>Genocide cannot be committed by an individual or small group; rather, it takes the cooperation of a large number of people and the state.</u> The genocidal process starts with prejudice that continues to grow. By knowing the stages of genocide, citizens are better equipped to identify the warning signs and stop the process from continuing.  
 - How would you <u>define</u> "genocide"? 
 	- A deliberate killing of a group of a minority with the aim of destroying them, like the holocaust. 
-### The most commonly cited semination for genocide is the legal definition as set out by the United Nations Convention on the Prevention and Punishment of the Crime of Genocide (1948): 
+### The Most Commonly Cited Semination for Genocide is the Legal Definition as Set out by the United Nations Convention on the Prevention and Punishment of the Crime of Genocide (1948):
 
 > Genocide" means any of the following acts committed with **intent to destroy**, in whole or in part, a national, ethnical, racial or religious group, as such:
 	(a). **Killing** members of the group; 
@@ -58,10 +58,25 @@ Quote Reflection:
 | ---------------------- | --------------------------------------------------------------------------------------------------------------- | --- |
 | Location               | - Germany camps<br>- Poland<br>- Netherland<br>- France<br>- Hungary<br>- Soviet Union                          |     |
 | Causes                 | - Antisemitism<br>- Nazi ideology<br>- economic instability<br>- nationalism<br>- propaganda and indoctrination |     |
-| Key Points             | - Adolf Hitler's rise to power in 1933<br>- Nuremburg Laws<br>                                                  |     |
+| Key Points             | - Adolf Hitler's rise to power in 1933<br>- Nuremberg Laws<br>                                                  |     |
 | Consequences           |                                                                                                                 |     |
 | International Response |                                                                                                                 |     |
+> -> **Video Reflection**, <u>The Holocaust</u>: What were the factors that enabled such a large-scale genocide  like the Holocaust to occur, and how did the Nazis manipulate public opinion to promote hatred? 
+> Reflect on how we can learn from this tragic history to prevent similar atrocities in the future.  
+- The idea that some people are less than others
+- Genocide begins and ends with people's choices
+- They manipulated film and news, stifled the press to spread hate speech of minorities 
+- The spread of propaganda 
 
+## Cambodian Genocide
+
+| Important Dates        |     |
+| ---------------------- | --- |
+| Location               |     |
+| Causes                 |     |
+| Key points             |     |
+| Consequences           |     |
+| International Response |     |
 
 
 # 🧠 Questions

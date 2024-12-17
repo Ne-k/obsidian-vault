@@ -1,12 +1,12 @@
 ---
-id: 20241008092700
-created_date: 10/08/2024
-updated_date: 10/08/2024
+id: 20241122104106
+created_date: 11/22/2024
+updated_date: 11/22/2024
 type: note
 ---
 
-# 📅 The Glass Castle Movie
-- **🏷️Tags** : #10-08-2024 #Notes 
+# 📅 Rwanda
+- **🏷️Tags** : #11-22-2024 #Notes 
 
 # ✅ Assignments
 - [ ]  
@@ -19,12 +19,13 @@ type: note
 
 # 🗒️Notes
 
-## Differences
-- The part where Rose tells Jeannette tells that the ring and that she's getting married is going to kill Rex 
-- Romantic interest, no mention of getting married
+
 
 
 # 🧠 Questions
+
+# 💬 Recording and Transcription
+
 
  
 

@@ -23,14 +23,10 @@
             "id": "dc5c5615a8605f23",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English 12/What is Hamas.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "What is Hamas"
+              "title": "New tab"
             }
           },
           {
@@ -46,9 +42,103 @@
               "icon": "lucide-file",
               "title": "Mapping the path to Genocide"
             }
+          },
+          {
+            "id": "a8de0d958fa4159c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economics/What is Fiscal Policy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "What is Fiscal Policy"
+            }
+          },
+          {
+            "id": "f9c98948a9da26db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economics/Aggregate Supply and Demand.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aggregate Supply and Demand"
+            }
+          },
+          {
+            "id": "3686dff4b7896c44",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Economics/Assets/16g-h.png"
+              },
+              "icon": "lucide-image",
+              "title": "16g-h"
+            }
+          },
+          {
+            "id": "5c3a9f8ea83b493c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Economics/Assets/16g-h 1.png"
+              },
+              "icon": "lucide-image",
+              "title": "16g-h 1"
+            }
+          },
+          {
+            "id": "acd1e66d5d0e2ef8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economics/What is Fiscal Policy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "What is Fiscal Policy"
+            }
+          },
+          {
+            "id": "da7b5483c05d3141",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economics/Fiscal and Monetary Policy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fiscal and Monetary Policy"
+            }
+          },
+          {
+            "id": "af86c427688021e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economics/Fiscal and Monetary Policy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fiscal and Monetary Policy"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -104,7 +194,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 200
   },
   "right": {
     "id": "001665bf35b7b593",
@@ -166,10 +256,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ethnic Studies/Mapping the path to Genocide.md"
+                "file": "Economics/Aggregate Supply and Demand.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Mapping the path to Genocide"
+              "title": "Outline of Aggregate Supply and Demand"
             }
           },
           {
@@ -203,53 +293,53 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "d1f8529c3701c85d",
+  "active": "f9c98948a9da26db",
   "lastOpenFiles": [
-    "Economics/Macro-Micro Economics.md",
-    "Ethnic Studies/Mapping the path to Genocide.md",
-    "Pasted image 20241107132000.png",
-    "Economics/Economics 101.md",
-    "English 12/English Notes.md",
-    "Economics/Supply and Demand Study Guide.md",
+    "Economics/Broad Social Goals of an Economic System.md",
+    "Economics/What is Fiscal Policy.md",
+    "Economics/Aggregate Supply and Demand.md",
     "Economics/Consumer Behavior & Elasticity.md",
-    "English 12/What is Hamas.md",
     "Economics/Supply and Demand.md",
-    "Economics/Assets/unnamed.gif",
+    "Economics/Macro-Micro Economics.md",
+    "Economics/Fiscal and Monetary Policy.md",
+    "Ethnic Studies/India Notes.md",
+    "Ethnic Studies/Hmong People Statelessness.md",
+    "Ethnic Studies/Mapping the path to Genocide.md",
+    "Ethnic Studies/Rwanda.md",
+    "Templates/NoteTemplate.md",
+    "English 12/English Notes.md",
+    "Pasted image 20241211130814.png",
     "Economics/Assets/EquilibriumQuantity-3d51042295814ceda425f70c182d9e76.png",
+    "Pasted image 20241211125328.png",
+    "Economics/Assets/Pasted image 20241211124318.png",
+    "Economics/Assets/Pasted image 20241209124338.png",
+    "Economics/Assets/Pasted image 20241209123324.png",
+    "Economics/Assets/images 2.png",
+    "Economics/Assets/Elastic-vs.-Inelastic-vs.-Perfectly-Inelastic-Demand.jpg",
+    "Economics/Assets/16g-h 1.png",
+    "Economics/Assets/16g-h.png",
+    "English 12/What is Hamas.md",
+    "English 12/Warm Ups.md",
+    "English 12/The Glass Castle; Welch.md",
+    "English 12/The Glass Castle Movie.md",
+    "English 12/Personal Narrative Essay Jigsaw; T.S.A. and Cinnamon Buns.md",
+    "English 12/Parenting Styles.md",
+    "Ethnic Studies/Background to the Palestinian Israeli Conflict.md",
+    "Home.md",
+    "Ethnic Studies/Roma Notes.md",
+    "Economics/Economics 101.md",
+    "Economics/Supply and Demand Study Guide.md",
     "Economics/No. 1 Economics Model; Circular Flow of Economy.md",
     "Economics/No. 2 Economics Model; Production Possibilities Frontier.md",
-    "images.png",
-    "Elastic-vs.-Inelastic-vs.-Perfectly-Inelastic-Demand.jpg",
-    "Supply_Elasticity_05.png",
-    "Economics/Broad Social Goals of an Economic System.md",
-    "Economics/Comparative advantage and Trade.md",
-    "price-elasticity-formula-explained-1024x532.webp",
-    "Economics/Vocabulary.md",
-    "Economics/Study Guide.md",
     "whisper-web/vite.config.ts.timestamp-1729706711609-4bcf340285591.mjs",
-    "Ethnic Studies/Background to the Palestinian Israeli Conflict.md",
     "Ethnic Studies/Assets/Israel-Palestine-Background1.txt",
     "Ethnic Studies/Assets/Israel-Palestine-1.webm",
     "Ethnic Studies/Assets/transcript.txt",
     "Ethnic Studies/Assets/ban-vinai-the-refugee-camp-9780231878760_compress.pdf",
-    "Economics/Assets/ceiling.webp",
-    "Economics/Assets/price-ceiling1.png",
     "whisper-web/vite.config.ts.timestamp-1729533192000-dc97d08414fda.mjs",
-    "Economics/Assets/Price-elasticity-of-Demand-1.webp",
     "Economics/Assets/Recording 20241010124241.webm",
-    "Templates/NoteTemplate.md",
-    "English 12/Personal Narrative Essay Jigsaw; T.S.A. and Cinnamon Buns.md",
-    "English 12/The Glass Castle; Welch.md",
-    "English 12/The Glass Castle Movie.md",
-    "English 12/Parenting Styles.md",
-    "Gamified Cybersecurity.md",
     "Economics/Assets/Recording 20241008131919.webm",
     "Economics/Assets/transcript(1).srt",
-    "Recording 20241008131919.webm",
-    "Home.md",
-    "Ethnic Studies/Roma Notes.md",
-    "whisper-web/node_modules/slash/readme.md",
-    "whisper-web/node_modules/globby/readme.md",
-    "whisper-web/node_modules/sharp/vendor/8.14.2/win32-x64/THIRD-PARTY-NOTICES.md"
+    "Recording 20241008131919.webm"
   ]
 }

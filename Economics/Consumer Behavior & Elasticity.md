@@ -47,7 +47,7 @@ type: note
 > **equal to** 1 = unit elastic (equal changes to both)
 > (once you complete the calculation, take the absolute Value of the number remaining)
 
-![[Supply_Elasticity_05.png]]![[Elastic-vs.-Inelastic-vs.-Perfectly-Inelastic-Demand.jpg]]![[images.png]]
+![[Supply_Elasticity_05.png]]![[Elastic-vs.-Inelastic-vs.-Perfectly-Inelastic-Demand.jpg]]![[images 2.png]]
 
 
 

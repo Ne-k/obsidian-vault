@@ -45,7 +45,7 @@ Chronicle of a death foretold pg. 91-95, the effects of Bayardo San Roman
 	- **Cultural Expectations:**
 	    - Community hides behind traditions to absolve guilt.
 	    - Façade of cultural norms perpetuates violence and injustice.
-1. How does the outcome go against the best interests of the community? 
+3. How does the outcome go against the best interests of the community? 
 	- **Loss of Innocence:**
 	    - The murder shatters the town's sense of safety and innocence.
 	    - People become distrustful and suspicious, altering community dynamics.
@@ -61,6 +61,46 @@ Chronicle of a death foretold pg. 91-95, the effects of Bayardo San Roman
 	- **Cultural and Social Stagnation:**
 	    - The community’s adherence to outdated honor codes prevents social progress.
 	    - It reinforces harmful traditions, hindering cultural evolution and growth.
+
+## Pg. 3
+
+- How does evidence continue to stack up against Marta in this case? 
+	- It stacks up to the point where it shows Marta as the murderer, such as the switched vile cases, the setup of Fran, etc. 
+- What does Benoit Blanc reveal about Ransom's role in the case? 
+	- He reveals that Ransom was the mastermind of it all, after the argument with Harlan, he leaves, comes back, switches the medication vials, receive the tox report, set up the blackmail and more to show that Marta was the one that killed Harlan. 
+- What is revealed about the cause of Harlan's death? What irony does this create?
+	-  The cause was the aftermath of Ransom's argument about the will and how all the inheritance would be going towards Marta instead of the family.. 
+- Do the Thrombys seem like they really care about what happened to Harlan? What is their biggest concern? Are the other characters really any different than Ransom? Does this relate to Chronicle
+	- 
+- What is the story of the American Dream? Do the Thrombys align with that story? Does Marta align with the story? Does this film show the concept of the American dream as a collective illusion 
+
+## Pg. 4
+### The War Prayer
+1. What is the mood or tone of the first three paragraphs? What language gives you this message? 
+	1. The mood is patriotic and exotic, because in the first three paragraphs there is a war going on and they don't seem scared in any way, kind of like the fourth of July. 
+2. What is the point of the story the messenger tells the crowd about praying for rain? What is he trying to make them understand? 
+	1. He is trying to say that if you try and pray for the good, there is the possibility that a negative will happen to someone or something else in return for that positive. 
+3. Twain has created a satire about patriotism, war, and violence. What do you think his indented message is? 
+
+Reflection: What is the relationship between war a peace? Can one bring about the other? Cite evidence from this text, your own experience, and other literature, art, or history in your answer. 
+
+
+## Pg. 5
+### Violence Vanquished
+
+## Pg. 6
+
+### Book Club Discussion #1
+1. Has the story gone the way that you expected? Why/Why not? 
+2. What relationships between characters have formed in the most recent reading that you did? What new relationships do they have to their environment? 
+3. What is one intentional/interest strategy that the author uses in this book to enhance the story or our understanding of characters? 
+4. What points of confusion still remain? Do you think these are intentional (Does the author leave this confusion on purpose), or unintentional? What is the effect of this confusion
+5. Discussion Questions: 
+	1. How does Liesel's character evolve throughout the story? What key events shape her growth, and how does she influence those around her?
+	2. In what ways does _The Book Thief_ explore the duality of human nature during times of war? How do the characters reflect both the darkness and light of the human spirit?
+	3. How does the unique perspective of Death as the narrator affect your understanding of the story right from the beginning? What emotions does this perspective evoke in you as a reader?
+	4. Describe your first impression of Liesel Meminger. What do we learn about her through her initial actions and interactions?
+	5. What significance do you think the book, _The Gravedigger's Handbook_, holds for Liesel? How does this object symbolize her journey?
 # 🧠 Questions
 
 # Recording and Transcription

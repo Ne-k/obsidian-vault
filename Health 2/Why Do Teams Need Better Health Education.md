@@ -12,7 +12,6 @@ type: note
 ## Why Do Teams Need Better Health Education
 ### Key Concepts:
 - The statistics 
-	- ![[IMAGE-NEW-NEW_12-768x430.jpg]]
 - Health literacy and it's impacts on health outcomes
 - Comprehensive health education: The benefit. 
 

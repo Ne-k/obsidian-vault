@@ -69,9 +69,6 @@ type: note
 - Responsibility of students’ health knowledge left to subjective forces.
 - **CDC’s Health Education Curriculum Analysis Tool (HECAT)** provides evidence-based tools for curriculum planning.
 
-- Prioritizing comprehensive health education in schools prioritizes public health.
-- Empowers the next generation with knowledge and skills for healthier, more informed lives.
-
 
 
 

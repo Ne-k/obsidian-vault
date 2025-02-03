@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "💓",
       "LiCamera",
       "💰",
       "📚",
-      "LiBookA",
-      "LiLayoutTemplate"
+      "LiBookA"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -35,8 +35,8 @@
   },
   "Templates/NoteTemplate.md": "LiLayoutTemplate",
   "Templates": "LiLayoutTemplate",
-  "Ethnic Studies": "LiBookA",
   "English 12": "📚",
   "Economics": "💰",
-  "AP 2D Photo": "LiCamera"
+  "AP 2D Photo": "LiCamera",
+  "Health 2": "💓"
 }

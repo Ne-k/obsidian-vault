@@ -101,6 +101,32 @@ Reflection: What is the relationship between war a peace? Can one bring about th
 	3. How does the unique perspective of Death as the narrator affect your understanding of the story right from the beginning? What emotions does this perspective evoke in you as a reader?
 	4. Describe your first impression of Liesel Meminger. What do we learn about her through her initial actions and interactions?
 	5. What significance do you think the book, _The Gravedigger's Handbook_, holds for Liesel? How does this object symbolize her journey?
+
+
+## Pg. 7
+
+1. What kinds of endings do you prefer? Resolved, unresolved, happy, tragic, ambiguous, a twist, full circle, etc. What is an example of a story ending that you loved or an ending that you hated? 
+	1. It kind of depends, if I'm reading something like a book, I'd like the story to be wrapped up and resolved by the time I get to the last page, but when it's a movie or show, depending on how good the storyline is, I'd prefer the ending to be unresolved so that I can continue watching waiting for the ending. 
+		1. An example of a ending I hated comes from a movie called Inception, and how it ended was that it essentially left the watcher wondering what happened and the whole conflict of the main character wasn't really resolved, it left at a abrupt ending. 
+2. What kind of ending was your book? Did you like it? Did it make sense with the rest of the book? 
+	1. The ending of the book was as expected when it comes to the holocaust, Max, the Jew got arrested, Hitler died, and Liesel died of old age, nothing really surprising but all of it did make sense when it comes to the book, though something that piqued by interest was what did Death mean when he said "I am hunted by humans", like what does he imply. 
+3. What kinds of story choices r stylistic elements did the writer use to foreshadow or set up the ending or later events of the story? 
+	1. The book's narrator is death, and death at some point in the book said that it doesn't like surprises and straight up told us what would happen by the end of the book, such as Author Burg's death (though it's not related), and Rudy's death. 
+4. What does this story reveal about the humanity in war? Where do we see examples of people overcoming loss and trauma? What epiphanies from this war story can lead to peace? 
+	1. The book shows the harsh realities of war but also the enduring strength and compassion of individuals. It portrays how ordinary people, even under dire circumstances, can display extraordinary humanity. Characters like Hans Hubermann and Max Vandenburg exhibit deep empathy and courage, defying the brutality around them.
+5. Create (3) of your own discussion questions of the Book Thief using our criteria: 
+	1. Open ended
+	2. Connects to text? 
+	3. Can connect to the real world? 
+	4. Clear and easy to understand? 
+		1. **How does the narrator's unique perspective as Death shape the reader's understanding of the events and characters in "The Book Thief"?** 
+		2. **In what ways does Liesel's love for books and words influence her relationships and actions throughout the novel?**
+		3. **How does the theme of resistance manifest in the actions of various characters, and what parallels can you draw between their forms of resistance and those seen in real-world historical or contemporary contexts?**
+## Pg. 8
+### Letters of Wisdom
+
+### 5 Minute Write
+For me, <u>wisdom obviously means how knowledgeable you are in a subject or whatever</u>, as well as <u>the ability to learn from the mistakes you've made thus far and building off of that to teach others what and what not to d</u>o. Wisdom is some <u>form of knowledgeability</u>, such as if you've studied in the field of cybersecurity for x years, you would be counted as knowledgeable for that subject and have wisdom about it, or <u>if you've lived enough years in your life, say you're 60 or 50, people would count on you for wisdom about life</u> and what and what not to do or stay away from as they've been there and have experienced some of the things they'll be talking about, and it's something you could learn from them to make you a better person in general and learn not to make the same mistakes they've made. 
 # 🧠 Questions
 
 # Recording and Transcription

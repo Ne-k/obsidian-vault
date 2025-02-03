@@ -46,10 +46,6 @@
       "color": "DgmZ9WV2OtDy6E8UJErAY"
     },
     {
-      "path": "Ethnic Studies",
-      "color": "JTpwUEgRccxa9H8j7Y9pP"
-    },
-    {
       "path": "Economics/Economics 101.md",
       "color": "6eSTGFPF3RugFNJ6ziMex"
     },
@@ -66,16 +62,8 @@
       "color": "6eSTGFPF3RugFNJ6ziMex"
     },
     {
-      "path": "Ethnic Studies/Roma Notes.md",
-      "color": "JTpwUEgRccxa9H8j7Y9pP"
-    },
-    {
       "path": "Economics/Comparative advantage and Trade.md",
       "color": "6eSTGFPF3RugFNJ6ziMex"
-    },
-    {
-      "path": "Ethnic Studies/Hmong People Statelessness.md",
-      "color": "JTpwUEgRccxa9H8j7Y9pP"
     },
     {
       "path": "Economics/Supply and Demand.md",
@@ -86,20 +74,16 @@
       "color": "agJQI01u5Y2Ze6bD9dXu4"
     },
     {
-      "path": "Ethnic Studies/Background to the Palestinian Israeli Conflict.md",
-      "color": "JTpwUEgRccxa9H8j7Y9pP"
-    },
-    {
       "path": "Economics/Consumer Behavior & Elasticity.md",
       "color": "6eSTGFPF3RugFNJ6ziMex"
     },
     {
-      "path": "Ethnic Studies/Mapping the path to Genocide.md",
-      "color": "JTpwUEgRccxa9H8j7Y9pP"
-    },
-    {
       "path": "Economics/Aggregate Supply and Demand.md",
       "color": "6eSTGFPF3RugFNJ6ziMex"
+    },
+    {
+      "path": "Health 2",
+      "color": "JTpwUEgRccxa9H8j7Y9pP"
     }
   ]
 }

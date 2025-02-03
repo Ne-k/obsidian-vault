@@ -49,12 +49,14 @@
             "id": "7b45cab41c780258",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Economics/Pasted image 20241211130814.png"
+                "file": "Health 2/Why Do Teams Need Better Health Education.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241211130814"
+              "icon": "lucide-file",
+              "title": "Why Do Teams Need Better Health Education"
             }
           }
         ],
@@ -90,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Notes",
+                "query": "tag:#💭",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -177,13 +179,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/Pasted image 20241211130814.png",
+                "file": "Health 2/Why Do Teams Need Better Health Education.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20241211130814"
+              "title": "Outline of Why Do Teams Need Better Health Education"
             }
           },
           {
@@ -217,11 +219,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "c3e4d9197ffc670e",
+  "active": "7b45cab41c780258",
   "lastOpenFiles": [
-    "Economics/Pasted image 20241211125328.png",
+    "Templates/Health Notes.md",
+    "Health 2/Why Do Teams Need Better Health Education.md",
     "Economics/Pasted image 20241211130814.png",
-    "Health 2/Untitled.md",
+    "2025-02-03.md",
+    "Economics/Pasted image 20241211125328.png",
     "Health 2",
     "English 12/English Notes.md",
     "Electronics Engineering/Notebook.md",
@@ -255,7 +259,6 @@
     "English 12/The Glass Castle Movie.md",
     "English 12/Personal Narrative Essay Jigsaw; T.S.A. and Cinnamon Buns.md",
     "English 12/Parenting Styles.md",
-    "Ethnic Studies/Background to the Palestinian Israeli Conflict.md",
     "whisper-web/vite.config.ts.timestamp-1729706711609-4bcf340285591.mjs",
     "Ethnic Studies/Assets/Israel-Palestine-Background1.txt",
     "Ethnic Studies/Assets/Israel-Palestine-1.webm",

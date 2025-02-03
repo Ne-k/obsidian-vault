@@ -10,8 +10,9 @@ type: note
 
 # 💭 Essential Question
 ## Why Do Teams Need Better Health Education
-### Key Concepts: 
+### Key Concepts:
 - The statistics 
+	- ![[IMAGE-NEW-NEW_12-768x430.jpg]]
 - Health literacy and it's impacts on health outcomes
 - Comprehensive health education: The benefit. 
 
@@ -23,7 +24,7 @@ type: note
 
 # 🗒️Notes
 
-# The health crisis no one’s talking about: Why teens need better health education
+# The Health Crisis no one’s Talking About: Why Teens Need Better Health Education
 
 ## Introduction
 - Students often only learn basic health facts, e.g., putting a condom on a banana or that the mitochondria is the powerhouse of the cell.

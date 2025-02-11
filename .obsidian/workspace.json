@@ -25,12 +25,14 @@
             "id": "3be4b7cb02d97379",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Economics/Pasted image 20241211130814.png"
+                "file": "7034 Robot Reveal draft.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241211130814"
+              "icon": "lucide-file",
+              "title": "7034 Robot Reveal draft"
             }
           },
           {
@@ -51,16 +53,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Health 2/Why Do Teams Need Better Health Education.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Why Do Teams Need Better Health Education"
+              "title": "Home"
+            }
+          },
+          {
+            "id": "847e02418a6919b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Letter Draft.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Letter Draft"
+            }
+          },
+          {
+            "id": "69a6745a1aad81c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Health 2/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -179,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Health 2/Why Do Teams Need Better Health Education.md",
+                "file": "Health 2/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Why Do Teams Need Better Health Education"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -219,16 +249,24 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "7b45cab41c780258",
+  "active": "69a6745a1aad81c2",
   "lastOpenFiles": [
-    "Health 2/IMAGE-NEW-NEW_12-768x430.jpg",
+    "Health 2/Understanding Stress.md",
+    "Health 2/Untitled.md",
+    "7034 Robot Reveal draft.md",
     "Health 2/Why Do Teams Need Better Health Education.md",
-    "Templates/Health Notes.md",
     "Economics/Pasted image 20241211130814.png",
+    "English 12/English Notes.md",
+    "Health 2/An Overview of Mental Health.md",
+    "Templates/Health Notes.md",
+    "Letter Draft.md",
+    "Home.md",
+    "Health 2/IMAGE-NEW-NEW_12-768x430.jpg",
+    "Economics/Aggregate Supply and Demand.md",
+    "Templates/NoteTemplate.md",
     "2025-02-03.md",
     "Economics/Pasted image 20241211125328.png",
     "Health 2",
-    "English 12/English Notes.md",
     "Electronics Engineering/Notebook.md",
     "Electronics Engineering",
     "Economics/Macro-Micro Economics.md",
@@ -237,7 +275,6 @@
     "Economics/Supply and Demand.md",
     "Economics/What is Fiscal Policy.md",
     "Ethnic Studies/The British Raj Final Project.md",
-    "Economics/Aggregate Supply and Demand.md",
     "Economics/Broad Social Goals of an Economic System.md",
     "Economics/Consumer Behavior & Elasticity.md",
     "Economics/Fiscal and Monetary Policy.md",
@@ -245,7 +282,6 @@
     "Ethnic Studies/Hmong People Statelessness.md",
     "Ethnic Studies/Mapping the path to Genocide.md",
     "Ethnic Studies/Rwanda.md",
-    "Templates/NoteTemplate.md",
     "Economics/Assets/EquilibriumQuantity-3d51042295814ceda425f70c182d9e76.png",
     "Economics/Assets/Pasted image 20241211124318.png",
     "Economics/Assets/Pasted image 20241209124338.png",
@@ -253,11 +289,6 @@
     "Economics/Assets/images 2.png",
     "Economics/Assets/Elastic-vs.-Inelastic-vs.-Perfectly-Inelastic-Demand.jpg",
     "Economics/Assets/16g-h 1.png",
-    "English 12/What is Hamas.md",
-    "English 12/Warm Ups.md",
-    "English 12/The Glass Castle; Welch.md",
-    "English 12/The Glass Castle Movie.md",
-    "English 12/Personal Narrative Essay Jigsaw; T.S.A. and Cinnamon Buns.md",
     "whisper-web/vite.config.ts.timestamp-1729706711609-4bcf340285591.mjs",
     "Ethnic Studies/Assets/Israel-Palestine-Background1.txt",
     "Ethnic Studies/Assets/Israel-Palestine-1.webm",

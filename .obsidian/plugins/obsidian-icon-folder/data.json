@@ -31,7 +31,8 @@
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
     "lucideIconPackType": "native",
-    "debugMode": false
+    "debugMode": false,
+    "useInternalPlugins": false
   },
   "Templates/NoteTemplate.md": "LiLayoutTemplate",
   "Templates": "LiLayoutTemplate",

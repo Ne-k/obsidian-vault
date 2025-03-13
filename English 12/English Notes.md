@@ -127,11 +127,28 @@ Reflection: What is the relationship between war a peace? Can one bring about th
 
 ### 5 Minute Write
 For me, <u>wisdom obviously means how knowledgeable you are in a subject or whatever</u>, as well as <u>the ability to learn from the mistakes you've made thus far and building off of that to teach others what and what not to d</u>o. Wisdom is some <u>form of knowledgeability</u>, such as if you've studied in the field of cybersecurity for x years, you would be counted as knowledgeable for that subject and have wisdom about it, or <u>if you've lived enough years in your life, say you're 60 or 50, people would count on you for wisdom about life</u> and what and what not to do or stay away from as they've been there and have experienced some of the things they'll be talking about, and it's something you could learn from them to make you a better person in general and learn not to make the same mistakes they've made. 
-# 🧠 Questions
 
-# Recording and Transcription
+## Pg. 9
 
+### "Different Rules apply" by rogerbert.com Matt Zoller Seitz Questions
+1. Why does Coates in the book between the world and me describe white people as, "Americans who believe they are white?" Do the articles that you read help to expand on why he might use this language? 
+	1. Coates describes white people as "Americans who believe they are white" to emphasize that "whiteness" is a social construct rather than a biological reality.
+2. The question of what it means to be black in America is a consistent question aimed at many black Americans, but why is it that we don't often see white people asked what it means to be white? does the article different rules apply help to answer this question? 
+	1. The article explains that white people are rarely asked what it means to be white because their experiences are often considered the default or norm.
+3. What are ideas you found interesting that you agreed with in your article? 
+	1. Some interesting and agreeable ideas from the article include the importance of recognizing and addressing systemic racism, the necessity for open and honest conversations about race, and the role of privilege in shaping individuals' experiences and perspectives. The article underscores the need for empathy and understanding in bridging racial divides, which aligns with the broader goal of fostering a more just and equitable society.
+4. What ideas in your articles did you find that you disagree with? 
+	1. I'm not sure there's any ideas I disagree with. 
 
+### Between the World and Me Questions
+1. What challenges do you have n reading Coates' book? What kinds of challenges do you think Coates has in reading many of the books we have here at WLHS?
+	1. 
+2. What is the dream and why does Coates say, "Very few Americans will directly proclaim that they are in favor of black people being left to the streets But a very large number of Americans will do all they can to preserve the Dream?"
+	1. The quote is often associated with suburban life, material wealth, and safety. This Dream is built on the exploitation and oppression of Black people, even if many Americans do not consciously acknowledge it. Coates argues that while few Americans openly support racial injustice, many are complicit in maintaining the systems and structures that perpetuate it, thereby preserving the Dream at the expense of Black lives.
+3. Coates does refer subtly to the ways that America has used violence to attain and maintain power, what are some of these ways and why does he argue that African Americans are expected to be non-violent? 
+	2. Coates points to slavery, segregation, lynching, and police brutality as ways America has used violence to maintain power. He argues that African Americans are expected to be non-violent to avoid challenging the status quo and established power structures.
+4. One of Coates' final messages in the book is to "make your peace with chaos" is this a positive message to the reader? 
+	1. Coates' message to "make your peace with chaos" can be seen as a realistic and empowering perspective. It encourages readers to acknowledge and accept the unpredictable and often harsh realities of life, particularly for African Americans facing systemic oppression. By making peace with chaos, individuals can find resilience and strength to navigate and challenge the injustices they encounter.
  
 
 # Summarization Script

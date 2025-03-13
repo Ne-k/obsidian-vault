@@ -8,31 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f9c98948a9da26db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English 12/English Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "English Notes"
-            }
-          },
-          {
             "id": "3be4b7cb02d97379",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7034 Robot Reveal draft.md",
+                "file": "English 12/Research Topic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7034 Robot Reveal draft"
+              "title": "Research Topic"
+            }
+          },
+          {
+            "id": "ecb8ad60035af814",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Health 2/Cannabis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cannabis"
             }
           },
           {
@@ -81,16 +81,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Health 2/Untitled.md",
+                "file": "2025-02-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "2025-02-26"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Health 2/Untitled.md",
+                "file": "Health 2/Cannabis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Cannabis"
             }
           },
           {
@@ -243,20 +243,27 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "github-sync:Sync with Remote": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "69a6745a1aad81c2",
+  "active": "ecb8ad60035af814",
   "lastOpenFiles": [
+    "English 12/Research Topic.md",
+    "Social Media and Mental Health_ Benefits, Risks, and Opportunities for Research and Practice - Pros & cons_ impacts of social media on mental health _ BMC Psychology _ Full Text-combined.pdf",
+    "Health 2/Cannabis.md",
+    "Health 2/Adolescence and Addiction.md",
+    "Health 2/How do Mindfulness Meditation, Yoga, and PMR support holistic well-being.md",
     "Health 2/Understanding Stress.md",
-    "Health 2/Untitled.md",
+    "Health 2/Personal and Collective Goals.md",
+    "English 12/English Notes.md",
+    "2025-02-26.md",
+    "Health 2/Mental Crisis and How to Help.md",
     "7034 Robot Reveal draft.md",
     "Health 2/Why Do Teams Need Better Health Education.md",
     "Economics/Pasted image 20241211130814.png",
-    "English 12/English Notes.md",
     "Health 2/An Overview of Mental Health.md",
     "Templates/Health Notes.md",
     "Letter Draft.md",
@@ -275,13 +282,6 @@
     "Economics/Supply and Demand.md",
     "Economics/What is Fiscal Policy.md",
     "Ethnic Studies/The British Raj Final Project.md",
-    "Economics/Broad Social Goals of an Economic System.md",
-    "Economics/Consumer Behavior & Elasticity.md",
-    "Economics/Fiscal and Monetary Policy.md",
-    "Ethnic Studies/India Notes.md",
-    "Ethnic Studies/Hmong People Statelessness.md",
-    "Ethnic Studies/Mapping the path to Genocide.md",
-    "Ethnic Studies/Rwanda.md",
     "Economics/Assets/EquilibriumQuantity-3d51042295814ceda425f70c182d9e76.png",
     "Economics/Assets/Pasted image 20241211124318.png",
     "Economics/Assets/Pasted image 20241209124338.png",
@@ -295,7 +295,6 @@
     "Ethnic Studies/Assets/transcript.txt",
     "Ethnic Studies/Assets/ban-vinai-the-refugee-camp-9780231878760_compress.pdf",
     "whisper-web/vite.config.ts.timestamp-1729533192000-dc97d08414fda.mjs",
-    "Economics/Assets/Recording 20241010124241.webm",
-    "Economics/Assets/Recording 20241008131919.webm"
+    "Economics/Assets/Recording 20241010124241.webm"
   ]
 }

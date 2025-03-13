@@ -26,6 +26,10 @@ Key concepts:
 # 💡Summery
 
 
+Cannabinoids, derived naturally or synthetically, interact with the body’s endocannabinoid system to offer medical benefits like antiemetic effects, anorexia treatment, anti-spasticity, anticonvulsant properties, neuroprotection, and pain management, especially for neuropathic conditions. 
+However, risks include short-term effects such as psychosis and cognitive decline, and long-term issues like respiratory problems, dependence, cancer risks, and impaired driving. 
+While cannabinoids hold promise for reducing opioid dependency and treating chronic pain, usage requires caution, particularly for individuals under 25 or those undergoing surgery due to potential complications.
+
 # 🗒️Notes
 
 # Benefits and Risks of Cannabinoids
